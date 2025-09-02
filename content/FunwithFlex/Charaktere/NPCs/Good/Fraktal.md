@@ -1,3 +1,9 @@
+---
+title: Fraktal
+draft: false
+tags:
+  -
+---
 Arbeitet für [[TGO]]
 (bisschen Goofy, freaky Borderlands-Maniac, Jinx) Drei Piercings über linkem Auge
 Wünscht sich auch, dass die Völker friedlich miteinander sein können. Leider gibt es nur wenige Kobolde wie sie. Die meisten sind verblendet und böse!

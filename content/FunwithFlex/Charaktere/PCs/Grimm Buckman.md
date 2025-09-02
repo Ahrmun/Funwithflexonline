@@ -1,4 +1,8 @@
 ---
+title: Grimm Buckman
+draft: false
+tags:
+  - 
 aliases:
   - Grimm
   - Grimms

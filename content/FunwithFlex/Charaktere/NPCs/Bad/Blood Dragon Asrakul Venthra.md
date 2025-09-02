@@ -1,4 +1,6 @@
 ---
+title: Blood Dragon Asrakul Venthra
+draft: false
 tags:
   - BBEG
 aliases:

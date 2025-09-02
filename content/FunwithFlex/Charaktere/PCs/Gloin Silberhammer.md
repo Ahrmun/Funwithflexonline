@@ -1,4 +1,8 @@
 ---
+title: Gloin Silberhammer
+draft: false
+tags:
+  - 
 aliases:
   - Gloin
   - Gloins

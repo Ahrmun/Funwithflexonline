@@ -1,3 +1,9 @@
+---
+title: Goldilok
+draft: false
+tags:
+  -
+---
 Ist die oberste Person der [[TGO]]
 Vorgesetzer/Mentor
 Riecht nach Bratenfett und Bier. (der Wirt!), sehr edle vornehme, strenge Aussprache

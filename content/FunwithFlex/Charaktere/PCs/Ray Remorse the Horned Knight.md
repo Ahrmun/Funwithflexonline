@@ -1,4 +1,8 @@
 ---
+title: Ray Remorse the Horned Knight
+draft: false
+tags:
+  -
 aliases:
   - Ray
   - Rays

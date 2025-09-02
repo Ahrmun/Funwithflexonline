@@ -1,4 +1,6 @@
 ---
+title: Barbrek Donnerfaust
+draft: false
 aliases:
   - Barbrek
   - Barbreks
