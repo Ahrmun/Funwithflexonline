@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Hee da Abenteurer 
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Dies ist das Obsidian Online-Portal von FunwithFlex
+
+Gebet acht, welche Abenteuer auf euch warten werden!
