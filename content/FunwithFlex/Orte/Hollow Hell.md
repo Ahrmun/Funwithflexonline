@@ -1,0 +1,1 @@
+Versteckt in einer anderen Ebene verband, befindet sich die Hollow Hell. In diesem interdimensionale Gefängnis befanden sich bis zu dem Shattering das gesammelte Böse von mehreren tausend Jahren. Die Helden früherer Tage haben es dort verschlossen und Frieden über die Welten gebracht.

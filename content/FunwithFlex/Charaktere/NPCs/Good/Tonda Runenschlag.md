@@ -1,0 +1,1 @@
+Ist der Anführer einer kleinen Gruppe von Zwergen und einem Goblin. Wollte eine Schmiede in [[Fahrenguard]] öffnen, nachdem sie die Belohnung von der Karawane eingenommen haben. Ist während dem Kampf gegen Kelsyss im [[Hauerforst]], in ein Portal gesprungen um eine Person zu verfolgen. Seitdem nicht mehr aufgetaucht.
