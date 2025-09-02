@@ -1,3 +1,10 @@
+---
+title: Embercharm
+draft: false
+tags:
+  - item
+aliases:
+---
 Ein wundersames Amulett bestückt mit einem leuchtend roten Edelstein.
 
 Beim Anlegen muss ein Wisdom Check DC20 erfolgen. Wenn man dies nicht schafft, verliert man die Kontrolle über sich selbst und wird zu einem Elementar, der jeden angreift, der sich im Umkreis von 30ft befindet. Bei einem gelungenen Check bekommt behält man die Kontrolle und wird zu diesem elementar.

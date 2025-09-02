@@ -1,3 +1,10 @@
+---
+title: TGO
+draft: false
+tags:
+  - 
+aliases:
+---
 TGO – „The Golden Order“
 Vollständiger Name: „The Hermetic Order of the Golden Dragon
 Bekannter Geheimbund (The Hermetic Order of the Golden Dragon- TGO (The Golden Order)). Ist einigen Leuten durchaus ein Begriff (wie CIA, aber privat), aber niemand weiß wirklich Genaueres und wer Mitglied ist. Aber für das Gute!

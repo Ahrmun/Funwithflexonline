@@ -1,1 +1,8 @@
+---
+title: Die Eulen
+draft: false
+tags:
+  - 
+aliases:
+---
 Sind eine Gruppe von Tieflingen und Zwerge, welche im [[Hauerforst]] Leben und die umliegenden Dörfer und Straßen terrorisieren. Sie werden von einer Hexe namens [[Kelsyss]] geführt und wurden zuletzt von einer Abhandlung der TGO "aufgelöst".
