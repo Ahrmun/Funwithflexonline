@@ -7,9 +7,12 @@ Direkt vom Eingangsplateau kommt man zum Mausoleum (Balinndral - Halle der Ewige
 ### Balinndral - Halle der Ewigen
 Die Nekropole ist gepflastert mit mehreren Gedenkstätten der ehemaligen Könige, Clan-Herren und Helden der Zwergenwelt. 
 
+%%
 **(Per/Inv 15) - Ein extrem verwittertes Grab in Form eines riesigen Hammers. Es trägt die Inschrift "Silverblade, möge dein Donner ewig grollen!"**
+%%
 
 ### Sturmbarts Bollwerk 
 Ist eine große Wehranlage, welche sich nicht nur durch die Kaserne ansich, sondern sich auch durch eine Kampfarena auszeichnet, wo die Krieger trainieren können. Gelegentlich werden in der Arena unter anderem auch Schaukämpfe für das gemeine Volk ausgetragen. Sturmbarts Bollwerk ist nach den Grenzkriegern benannt, die die reiche der Zwerge beschützen.
-
+%%
 Die Gruppe kann auf Mitglieder von Gloins altem Trupp treffen, die ihn Begrüßen und geg. zum Zweikampf in der Arena herausfordern
+%%
