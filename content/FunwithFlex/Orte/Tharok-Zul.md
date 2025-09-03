@@ -1,27 +1,49 @@
-Tharok-Zul – „Die Krone unter dem Berg“ ist die Hauptstadt der Zwerge und befindet sich tief im [[Sonnengebirge]]. Neben den Metallen, Edelsteinen und Handwerkserzeignissen, Handeln die Zwerge noch mit einem bestimmten Pilz-belegten Hopfen, der zur Herstellung vom Gold Hopworks Bier nicht mehr wegzudenken ist.
+**Tharok-Zul – „Die Krone unter dem Berg“** ist die Hauptstadt der Zwerge und befindet sich tief im [[Sonnengebirge]]. Neben den Metallen, Edelsteinen und Handwerkserzeignissen, Handeln die Zwerge noch mit einem bestimmten Pilz-belegten Hopfen, der zur Herstellung vom Gold Hopworks Bier nicht mehr wegzudenken ist.
 
 ## Regierung 
 Die Herrscher der Zwerge sind so organisiert, dass es einen Rat aus allen oberen Clan-Vorsteher gibt, die beim Tode des Zwergenkönigs einen neuen Amtsträger aus ihren Reihen erwählen. Der König hat nicht nur eine symbolische Position inne, sondern hat auch die Entscheidungsgewalt, die nicht angezweifelt wird. Die restlichen Clan-Oberhäupter sind Berater und Verwalter von einzelnen Aufgaben und Zünften.
 
 Die derzeitigen regierende Clans und deren Zunfthäuser:
 
-### Clan xxx (Königshaus)
+### Clan Tiefenblick 
+- Seher und Magier
+- Spezialisierung: Weissagung, arkaner Schutz
+- Oberhaupt: **Orvik Tiefenblick**, alter, fast blinder Runenmagier, der oft in Rätseln spricht
+- Besonderes: er wird oft für verrückt gehalten, aber seine Visionen sind erschreckend präzise.
 
 ### Clan Sturmbart
-Bla bla bla neu
+- Die Grenzkrieger
+- Spezialisierung: Militär, Verteidigung der Bergpässe
+- Oberhaupt: **Durok Sturmbart**, stolzer Veteran und patriotischer Hardliner
+- Besonders: Eher fremdenfeindlich, sieht Machtfragen vor allem durch militärische Stärke.
 
+### Clan Silberhammer
+- Verzauberung ist eine Kunst
+- Spezialisierung: Artefaktschmiede und Waffenbau
+- Oberhaupt: **Thrain Silberhammer**, traditionsbewusster, angesehener Veteran
+- Besonderes: 
 
-### Clan
+### Clan Eisenbrand
+- Die Kriegswaffenschmiede
+- Spezialisierung: Belagerungswaffen, schwere Rüstung
+- Oberhaupt: **Haldra Eisenbrand**, hitzköpfige, leidenschaftliche Schmiedin mit kriegerischen Ergeiz.
+- Besonderes: Möchte Schmiedekunst direkt mit militärischer Macht verbinden - offener für riskante Bündnisse.
 
-### Clan 
+### Clan Erzquell
+- Die Gold- und Juwelenbarone
+- Spezialisierung: Bergbau, Edelmetallverarbeitung
+- Oberhaupt: **Borgra Erzquell**, politisch geschickte Geschäftsfrau
+- Besonderes: Will ihren Reichtum in politische Kontrolle umwandeln.
 
-### Clan 
+### Clan Kristallhain
+- Die Edelsteinverzauberer
+- Spezialisierung: Verzauberung von Schmuck und magischen Juwelen
+- Oberhaupt: **Fenrik Kristallhain**, ruhiger, fast schon poetischer Zwerg, der in Magie denkt als in Gold
+- Besonderes: Produziert die feinsten Ringe des Reiches
 
-### Clan 
+### Clan Schildbrecher
 
-### Clan 
-
-### Clan 
+### Clan Runenwacht
 
 
 ## Eingang
