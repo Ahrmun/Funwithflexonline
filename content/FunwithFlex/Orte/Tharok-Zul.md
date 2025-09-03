@@ -1,5 +1,11 @@
 Tharok-Zul – „Die Krone unter dem Berg“ ist die Hauptstadt der Zwerge und befindet sich tief im [[Sonnengebirge]]. Neben den Metallen, Edelsteinen und Handwerkserzeignissen, Handeln die Zwerge noch mit einem bestimmten Pilz-belegten Hopfen, der zur Herstellung vom Gold Hopworks Bier nicht mehr wegzudenken ist.
 
+## Regierung 
+Die Herrscher der Zwerge sind so organisiert, dass es einen Rat aus allen oberen Clan-Vorsteher gibt, die beim Tode des Zwergenkönigs einen neuen Amtsträger aus ihren Reihen erwählen. Der König hat nicht nur eine symbolische Position inne, sondern hat auch die Entscheidungsgewalt, die nicht angezweifelt wird. Die restlichen Clan-Oberhäupter sind Berater und Verwalter von einzelnen Aufgaben und Zünften.
+
+Die derzeitigen regierende Clans 
+
+
 ## Eingang
 Der Eingang der Stadt ist in den berg eingefasst. Die riesigen Tore aus massiven Gestein und Stahl sind mit Ornament verziert, die direkt in den Stein ein gemeißelt wurden. Die großen Tore werden von mindestens 4, mit Hellebarden bewaffneten Patrouillen bewacht.
 Direkt vom Eingangsplateau kommt man zum Mausoleum (Balinndral - Halle der Ewigen) zur einer der ersten Kasernen (Sturmbarts Bollwerk) und weiter zur ersten Ebene.
