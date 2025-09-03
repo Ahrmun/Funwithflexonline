@@ -11,7 +11,7 @@ Die derzeitigen regierende Clans und deren Zunfthäuser:
 - Oberhaupt: **Orvik Tiefenblick**, alter, fast blinder Runenmagier, der oft in Rätseln spricht
 - Besonderes: er wird oft für verrückt gehalten, aber seine Visionen sind erschreckend präzise.
 
-### Clan Sturmbart
+### Clan Sturmbart (Königlich)
 - Die Grenzkrieger
 - Spezialisierung: Militär, Verteidigung der Bergpässe
 - Oberhaupt: **Durok Sturmbart**, stolzer Veteran und patriotischer Hardliner
@@ -47,7 +47,7 @@ Die derzeitigen regierende Clans und deren Zunfthäuser:
 
 
 ## Eingang
-Der Eingang der Stadt ist in den berg eingefasst. Die riesigen Tore aus massiven Gestein und Stahl sind mit Ornament verziert, die direkt in den Stein ein gemeißelt wurden. Die großen Tore werden von mindestens 4, mit Hellebarden bewaffneten Patrouillen bewacht.
+Der Eingang der Stadt ist in den Berg eingefasst. Die riesigen Tore aus massiven Gestein und Stahl sind mit Ornament verziert, die direkt in den Stein ein gemeißelt wurden. Die großen Tore werden von mindestens 4, mit Hellebarden bewaffneten Patrouillen bewacht.
 Direkt vom Eingangsplateau kommt man zum Mausoleum (Balinndral - Halle der Ewigen) zur einer der ersten Kasernen (Sturmbarts Bollwerk) und weiter zur ersten Ebene.
 
 ### Balinndral - Halle der Ewigen
@@ -62,3 +62,6 @@ Ist eine große Wehranlage, welche sich nicht nur durch die Kaserne ansich, sond
 %%
 Die Gruppe kann auf Mitglieder von Gloins altem Trupp treffen, die ihn Begrüßen und geg. zum Zweikampf in der Arena herausfordern
 %%
+
+## Ebene 1
+Auf der ersten Ebene befinden sich nicht nur der große Markt mit den vielen Verkaufsständen, sondern auch in der Mitte des Marktes ein riesiger Eiche, die seit dem sie eine Nuss war in Ehren gehalten wurde. Sie wurde nach dem  Krieg gegen die Riesen eingepflanzt und soll seit dem 
