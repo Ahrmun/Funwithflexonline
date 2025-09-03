@@ -3,7 +3,25 @@ Tharok-Zul – „Die Krone unter dem Berg“ ist die Hauptstadt der Zwerge und 
 ## Regierung 
 Die Herrscher der Zwerge sind so organisiert, dass es einen Rat aus allen oberen Clan-Vorsteher gibt, die beim Tode des Zwergenkönigs einen neuen Amtsträger aus ihren Reihen erwählen. Der König hat nicht nur eine symbolische Position inne, sondern hat auch die Entscheidungsgewalt, die nicht angezweifelt wird. Die restlichen Clan-Oberhäupter sind Berater und Verwalter von einzelnen Aufgaben und Zünften.
 
-Die derzeitigen regierende Clans 
+Die derzeitigen regierende Clans und deren Zunfthäuser:
+
+### Clan xxx (Königshaus)
+
+### Clan Sturmbart
+
+
+
+### Clan
+
+### Clan 
+
+### Clan 
+
+### Clan 
+
+### Clan 
+
+### Clan 
 
 
 ## Eingang
