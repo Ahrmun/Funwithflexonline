@@ -8,7 +8,7 @@ Die derzeitigen regierende Clans und deren Zunfthäuser:
 ### Clan xxx (Königshaus)
 
 ### Clan Sturmbart
-
+Bla bla bla
 
 
 ### Clan
