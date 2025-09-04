@@ -1,0 +1,7 @@
+---
+title: Landan
+draft: false
+tags:
+  -
+---
+Ehemaliges Mitglied der [[Eulen]]. Wurde von der Gruppe verschont, als dieser Reue gezeigt hat und seine Freunde beerdigt hatte, nachdem sie von Kelsyss getötet wurden.
