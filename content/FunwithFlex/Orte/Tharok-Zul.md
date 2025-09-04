@@ -64,4 +64,4 @@ Die Gruppe kann auf Mitglieder von Gloins altem Trupp treffen, die ihn Begrüße
 %%
 
 ## Ebene 1
-Auf der ersten Ebene befinden sich nicht nur der große Markt mit den vielen Verkaufsständen, sondern auch in der Mitte des Marktes ein riesiger Eiche, die seit dem sie eine Nuss war in Ehren gehalten wurde. Sie wurde nach dem  Krieg gegen die Riesen eingepflanzt und soll seit dem sie wachsende Macht des Zwergenreiches repräsentieren. Test
+Auf der ersten Ebene befinden sich nicht nur der große Markt mit den vielen Verkaufsständen, sondern auch in der Mitte des Marktes ein riesiger Eiche, die seit dem sie eine Nuss war in Ehren gehalten wurde. Sie wurde nach dem  Krieg gegen die Riesen eingepflanzt und soll seit dem sie wachsende Macht des Zwergenreiches repräsentieren.
