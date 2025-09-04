@@ -1,0 +1,1 @@
+Gelehrter an der Universität [[Fahrenguard]] im Fachbereich Geologie.

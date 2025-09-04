@@ -1,0 +1,2 @@
+Magisches Artefakt. 
+Zweck unbekannt.
