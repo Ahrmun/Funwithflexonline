@@ -1,1 +1,0 @@
-Das Ständchen Holding liegt am Fuße des [[Sonnengebirge]] und ist für die Brauerei [[Gold Hopworks]] und die dazu gehörige Taverne [[Zum Kotzenden Troll]] bekannt. 
