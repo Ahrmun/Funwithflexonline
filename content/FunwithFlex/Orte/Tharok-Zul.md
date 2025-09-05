@@ -71,7 +71,9 @@ mit den vielen Verkaufsständen von den Bauern und Handwerkern aus der Stadt. An
 In der Mitte des Marktes befindet sich die Korne einer riesiger Eiche, die seit dem sie eine Nuss war in Ehren gehalten wurde. Sie wurde nach dem  Krieg gegen die Riesen eingepflanzt und soll seit dem die wachsende Macht des Zwergenreiches symbolisieren.
 
 ### Die Clan-Häuser 
-Die Clan-Häuser sind 
+Die großen Clanhäuser der Hauptstadt sind keine separaten Burgen, sondern Teil des Berges selbst. Jeder Clan hat sich über Jahrhunderte seinen Wohnsitz aus dem Stein geschlagen, sodass Haus und Fels untrennbar verbunden sind.
+
+### Das Archiv 
 
 ## Ebene 2
 Vom Markt kommt man auf die zweite Ebene, welche neben den Ackern mit dem Pilzen und Hopfen 
