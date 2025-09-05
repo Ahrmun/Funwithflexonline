@@ -74,7 +74,7 @@ In der Mitte des Marktes befindet sich die Korne einer riesiger Eiche, die seit 
 Die großen Clanhäuser der Hauptstadt sind keine separaten Burgen, sondern Teil des Berges selbst. Jeder Clan hat sich über Jahrhunderte seinen Wohnsitz aus dem Stein geschlagen, sodass Haus und Fels untrennbar verbunden sind.
 
 ### Das Archiv 
-In den Tiefen dunklen Höhlen des Archivs befinden sich die Chroniken 
+In den Tiefen dunklen Höhlen des Archivs befinden sich die Chroniken von Zeiten vor den Menschen 
 
 ## Ebene 2
 Vom Markt kommt man auf die zweite Ebene, welche neben den Ackern mit dem Pilzen und Hopfen 
