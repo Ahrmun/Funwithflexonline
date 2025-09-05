@@ -64,4 +64,7 @@ Die Gruppe kann auf Mitglieder von Gloins altem Trupp treffen, die ihn Begrüße
 %%
 
 ## Ebene 1
-Auf der ersten Ebene befinden sich nicht nur der große Markt mit den vielen Verkaufsständen, sondern auch in der Mitte des Marktes die Korne einer riesiger Eiche, die seit dem sie eine Nuss war in Ehren gehalten wurde. Sie wurde nach dem  Krieg gegen die Riesen eingepflanzt und soll seit dem die wachsende Macht des Zwergenreiches symbolisieren. 
+Auf der ersten Ebene befinden sich nicht nur der große Markt mit den vielen Verkaufsständen, sondern auch in der Mitte des Marktes die Korne einer riesiger Eiche, die seit dem sie eine Nuss war in Ehren gehalten wurde. Sie wurde nach dem  Krieg gegen die Riesen eingepflanzt und soll seit dem die wachsende Macht des Zwergenreiches symbolisieren.
+
+## Ebene 2
+Vom Markt kommt man auf die zweite Ebene, welche neben den Ackern mit dem Pilzen und Hopfen 
