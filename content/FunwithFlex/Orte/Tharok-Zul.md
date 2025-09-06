@@ -77,4 +77,6 @@ Die großen Clanhäuser der Hauptstadt sind keine separaten Burgen, sondern Teil
 In den Tiefen dunklen Höhlen des Archivs befinden sich die Chroniken, Legenden und Erzählungen von vor Jahrtausenden. Dieser Bereich ist nur mit der Genehmigung von den Runenwächtern zu betreten
 
 ## Ebene 2
-Vom Markt kommt man auf die zweite Ebene, welche neben den Ackern mit dem Pilzen und Hopfen auch die riesige Waffenschmiede und den Durchgang zum 
+Vom Markt kommt man auf die zweite Ebene, welche neben den Ackern mit dem Pilzen und Hopfen auch die riesige Waffenschmiede und den Durchgang zur Festen beinhaltet.
+
+### 
