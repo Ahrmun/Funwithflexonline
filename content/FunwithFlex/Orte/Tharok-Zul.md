@@ -84,3 +84,6 @@ Die Feste ist der militärische Mittelpunkt der Zwergenstadt und konnte selbst e
 
 ### Morgrimmar, der Flammenberg
 Die älteste Waffenschmiede von Tharok-Zul befindet sich auf dem Boden innerhalb eines erloschenen Vulkans. Der große Schornstein geht bis über die 1. Ebene hinweg. Laut einer Sage wurde die Schmiede damals mit Drachenfeuer entzündet, wodurch die Glut magische Attribute geben kann.
+
+## Ebene 3
+Auf der dritten und vorletzten Ebene befinden sich die ersten Eingänge der Minen. Hinter diesen Tunneln befinden sich immer noch Reichtum in Form von Metall und Edelstein.
