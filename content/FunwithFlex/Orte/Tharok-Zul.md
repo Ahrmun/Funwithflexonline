@@ -73,7 +73,7 @@ In der Mitte des Marktes befindet sich die Korne einer riesiger Eiche, die seit 
 ### Die Clan-Häuser 
 Die großen Clanhäuser der Hauptstadt sind keine separaten Burgen, sondern Teil des Berges selbst. Jeder Clan hat sich über Jahrhunderte seinen Wohnsitz aus dem Stein geschlagen, sodass Haus und Fels untrennbar verbunden sind.
 
-### Das Archiv 
+### Durak-Thol, das Archiv 
 In den Tiefen dunklen Höhlen des Archivs befinden sich die Chroniken, Legenden und Erzählungen von vor Jahrtausenden. Dieser Bereich ist nur mit der Genehmigung von den Runenwächtern zu betreten
 
 ## Ebene 2
