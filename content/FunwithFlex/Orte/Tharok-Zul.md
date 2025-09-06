@@ -80,4 +80,7 @@ In den Tiefen dunklen Höhlen des Archivs befinden sich die Chroniken, Legenden 
 Vom Markt kommt man auf die zweite Ebene, welche neben den Ackern mit dem Pilzen und Hopfen auch die riesige Waffenschmiede und den Durchgang zur Festen beinhaltet.
 
 ### Dornakhal die Feste des Bergkönigs 
-Die Feste ist der militärische Mittelpunk
+Die Feste ist der militärische Mittelpunkt der Zwergenstadt und konnte selbst einer Belagerung standhalten. Sie beinhaltet nicht nur eine weitere Kaserne mit mehreren Kriegern, sondern auch die königlichen Gemächer mit der Kronenhalle, von wo aus der König zusammen mit seinen Beratern regiert.
+
+### Morgrimmar, der Flammenberg
+Die älteste Waffenschmiede von Tharok-Zul befindet sich auf dem Boden innerhalb eines erloschenen Vulkans. Der große Schornstein geht bis über die 1. Ebene hinweg. Laut einer Sage wurde die Schmiede damals mit Drachenfeuer entzündet, wodurch die Glut magische Attribute geben kann.
