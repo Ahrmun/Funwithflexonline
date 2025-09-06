@@ -87,3 +87,6 @@ Die älteste Waffenschmiede von Tharok-Zul befindet sich auf dem Boden innerhalb
 
 ## Ebene 3
 Auf der dritten und vorletzten Ebene befinden sich die ersten Eingänge der Minen. Hinter diesen Tunneln befinden sich immer noch Reichtum in Form von Metall und Edelstein.
+
+## Ebene 4
+In der bisher letzten Ebene befindet sich eine riesige Höhle mit Grundwasser, welches durch die ganzen Gesteinsschichten voll ist von Mineralien. Diese natürliche, fast schon heilige Quelle wird von den Tiefenblick-Clan gehütet wie kein anderer Ort.
