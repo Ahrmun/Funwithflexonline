@@ -1,5 +1,5 @@
 ---
-title: "Untitled 1"
+title: ""
 draft: false
 tags:
   -
