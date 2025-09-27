@@ -1,8 +1,7 @@
 ---
 title: Black Bear
-draft: false
+draft: true
 aliases:
-  
 tags:
 ---
 ![[Screenshot_20250927-215717.png]]

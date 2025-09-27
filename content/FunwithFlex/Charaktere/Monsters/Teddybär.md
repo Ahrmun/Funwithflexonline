@@ -1,8 +1,8 @@
 ---
 title: King Teddy
-draft: false
+draft: true
 aliases:
-  -
+  - 
 tags:
   -
 ---
