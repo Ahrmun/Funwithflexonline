@@ -1,9 +1,3 @@
----
-title: Tharok-Zul 
-draft: false
-tags:
-  -
----
 **Tharok-Zul – „Die Krone unter dem Berg“** ist die Hauptstadt der Zwerge und befindet sich tief im [[Sonnengebirge]]. Neben den Metallen, Edelsteinen und Handwerkserzeignissen, Handeln die Zwerge noch mit einem bestimmten Pilz-belegten Hopfen, der zur Herstellung vom Gold Hopworks Bier nicht mehr wegzudenken ist.
 
 ## Regierung 
@@ -70,29 +64,4 @@ Die Gruppe kann auf Mitglieder von Gloins altem Trupp treffen, die ihn Begrüße
 %%
 
 ## Ebene 1
-Auf der ersten Ebene befindet sich der große Markt
-mit den vielen Verkaufsständen von den Bauern und Handwerkern aus der Stadt. An den beiden länglichen Seiten befinden sich Durchgänge zu den Clan Häusern und dem Archiv und auf der anderen Seite zu einem ausgehülten Berg führt, wo sich der Abzug der alten Schmiede befindet.
-
-### Der Erzmarkt
-In der Mitte des Marktes befindet sich die Korne einer riesiger Eiche, die seit dem sie eine Nuss war in Ehren gehalten wurde. Sie wurde nach dem  Krieg gegen die Riesen eingepflanzt und soll seit dem die wachsende Macht des Zwergenreiches symbolisieren.
-
-### Die Clan-Häuser 
-Die großen Clanhäuser der Hauptstadt sind keine separaten Burgen, sondern Teil des Berges selbst. Jeder Clan hat sich über Jahrhunderte seinen Wohnsitz aus dem Stein geschlagen, sodass Haus und Fels untrennbar verbunden sind.
-
-### Durak-Thol, das Archiv 
-In den Tiefen dunklen Höhlen des Archivs befinden sich die Chroniken, Legenden und Erzählungen von vor Jahrtausenden. Dieser Bereich ist nur mit der Genehmigung von den Runenwächtern zu betreten
-
-## Ebene 2
-Vom Markt kommt man auf die zweite Ebene, welche neben den Ackern mit dem Pilzen und Hopfen auch die riesige Waffenschmiede und den Durchgang zur Festen beinhaltet.
-
-### Dornakhal die Feste des Bergkönigs 
-Die Feste ist der militärische Mittelpunkt der Zwergenstadt und konnte selbst einer Belagerung standhalten. Sie beinhaltet nicht nur eine weitere Kaserne mit mehreren Kriegern, sondern auch die königlichen Gemächer mit der Kronenhalle, von wo aus der König zusammen mit seinen Beratern regiert.
-
-### Morgrimmar, der Flammenberg
-Die älteste Waffenschmiede von Tharok-Zul befindet sich auf dem Boden innerhalb eines erloschenen Vulkans. Der große Schornstein geht bis über die 1. Ebene hinweg. Laut einer Sage wurde die Schmiede damals mit Drachenfeuer entzündet, wodurch die Glut magische Attribute geben kann.
-
-## Ebene 3
-Auf der dritten und vorletzten Ebene befinden sich die ersten Eingänge der Minen. Hinter diesen Tunneln befinden sich immer noch Reichtum in Form von Metall und Edelstein.
-
-## Ebene 4
-In der bisher letzten Ebene befindet sich eine riesige Höhle mit Grundwasser, welches durch die ganzen Gesteinsschichten voll ist von Mineralien. Diese natürliche, fast schon heilige Quelle wird von den Tiefenblick-Clan gehütet wie kein anderer Ort.
+Auf der ersten Ebene befinden sich nicht nur der große Markt mit den vielen Verkaufsständen, sondern auch in der Mitte des Marktes ein riesiger Eiche, die seit dem sie eine Nuss war in Ehren gehalten wurde. Sie wurde nach dem  Krieg gegen die Riesen eingepflanzt und soll seit dem sie wachsende Macht des Zwergenreiches repräsentieren. new454
