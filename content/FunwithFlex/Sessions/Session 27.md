@@ -41,3 +41,8 @@ Die SCs finden folgende Sceneries:
 
 Die Traum Ebene befindet sich zwischen der Materiellen und dem Fayewild. Sie wird sich die Vorstellungskraft der Materiellen Eben bevölkert und dem entsprechend sind die Wesen und die Welt im allgemeinen.
 
+Beim durchqueren des Portals sehen sie folgendes:
+
+- Blaues Gras, was sich verhält wie Wasser beim durchqueren 
+- tief fliegende Zuckerwattenwolken 
+- 
