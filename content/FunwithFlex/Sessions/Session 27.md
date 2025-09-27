@@ -85,7 +85,7 @@ Alle müssen springen: STR (Athletics) oder DEX (Acrobatics) DC 15.
 
 Misslingen: 2d6 Feuerschaden (Illusion, aber die Schmerzen sind echt).
 
-Gegneroption: 2d4 Magma Mephits, die von Insel zu Insel springen.
+Gegneroption: 2d4 [[Magma Mephits]], die von Insel zu Insel springen.
 
 
 
@@ -122,7 +122,7 @@ Wände der Burg können einstürzen, wenn jemand STR > 20 Schaden anrichtet.
 
 Gegner: Swarm of Plushies (Reskin von Swarm of Quippers, aber Kuscheltiere, die festhalten statt beißen).
 
-In der Mitte thront ein übergroßes Kuscheltier (z. B. ein Teddybär), korrumpiert vom Monster → Owlbear-Statblock, aber flauschig.
+In der Mitte thront ein übergroßes Kuscheltier (z. B. ein [[Teddybär]]), korrumpiert vom Monster → Owlbear-Statblock, aber flauschig.
 
 
 Ziel: Die Gruppe muss das Herz der Burg finden (ein Bett, unter dem es seltsam pulsiert) → Durchgang zum Boss.
