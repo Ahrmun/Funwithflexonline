@@ -27,7 +27,7 @@ Ursprünglich wollte er dort Handel mit dem dortigen Schmied treiben, hatte es s
 - andere weinen oder schreien plötzlich 
 - bei einem Investigation/Perception DC 15, bemerkt man einen Luftzug in Richtung der Schmiede 
 - die Tür klemmt und wird gefühlt von drinnen gehalten. (Athletics DC15) Sobald die Tür offen ist, werden die Spieler in ein Portal gesogen (Lila mit Sternen ).
-- 
+- Auf der anderen Seite werden die Spieler 
 
 
 ### Aufbau Traumwelt 
