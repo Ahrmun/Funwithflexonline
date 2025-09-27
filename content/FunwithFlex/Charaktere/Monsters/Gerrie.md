@@ -67,14 +67,15 @@ Flüstert alle Sprachen, die Kinder im Dorf sprechen
 
 ---
 
-Besondere Fähigkeiten
+### Besondere Fähigkeiten
 
-### Shadow Form
+#### Shadow Form
 Das Monster kann sich durch Spalten wie eine Tiny-Kreatur bewegen.
 
-Fear Aura (30 ft.). Kreaturen, die ihren Zug in 30 ft. beginnen, müssen DC 17 WIS Save machen oder frightened sein, bis zum Start ihres nächsten Zuges.
+#### Fear Aura (30 ft.)
+Kreaturen, die ihren Zug in 30 ft. beginnen, müssen DC 17 WIS Save machen oder frightened sein, bis zum Start ihres nächsten Zuges.
 
-### Nightmare Fuel
+#### Nightmare Fuel
 Immer wenn das Monster einen Krit landet, muss das Ziel einen DC 17 WIS Save machen oder einen Short-Term Madness-Effekt (DMG S. 259) erleiden.
 
 
