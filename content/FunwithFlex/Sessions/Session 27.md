@@ -131,11 +131,11 @@ Ziel: Die Gruppe muss das Herz der Burg finden (ein Bett, unter dem es seltsam p
 
 ---
 
-5. Das Monster unter dem Bett (Bosskampf)
+5. Das Monster unter dem Bett [[Gerrie]]
 
 Beschreibung: Unter einem gigantischen Kinderbett öffnet sich ein Riss in die Schwärze. Zwei glühende Augen starren hervor. Die Matratze hebt und senkt sich, als ob etwas atmet.
 
-Mechanik: (CR 10, Legendaries, wie wir es schon gebastelt haben).
+Mechanik: 
 
 Legendäre Aktionen:
 
