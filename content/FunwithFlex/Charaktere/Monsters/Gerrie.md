@@ -69,26 +69,30 @@ Flüstert alle Sprachen, die Kinder im Dorf sprechen
 
 Besondere Fähigkeiten
 
-Shadow Form. Das Monster kann sich durch Spalten wie eine Tiny-Kreatur bewegen.
+### Shadow Form
+Das Monster kann sich durch Spalten wie eine Tiny-Kreatur bewegen.
 
 Fear Aura (30 ft.). Kreaturen, die ihren Zug in 30 ft. beginnen, müssen DC 17 WIS Save machen oder frightened sein, bis zum Start ihres nächsten Zuges.
 
-Nightmare Fuel. Immer wenn das Monster einen Krit landet, muss das Ziel einen DC 17 WIS Save machen oder einen Short-Term Madness-Effekt (DMG S. 259) erleiden.
+### Nightmare Fuel
+Immer wenn das Monster einen Krit landet, muss das Ziel einen DC 17 WIS Save machen oder einen Short-Term Madness-Effekt (DMG S. 259) erleiden.
 
 
 ---
 
-Aktionen
+### Aktionen
 
 Multiattack. Das Monster macht 2 Claw Swipes oder 1 Claw Swipe + 1 Shadow Grasp.
 
-Claw Swipe.
+#### Claw Swipe
 Melee Weapon Attack: +9 to hit, Reichweite 10 ft., ein Ziel.
 Hit: 2d10+5 slashing + 2d8 necrotic.
 
-Shadow Grasp (Recharge 5–6). Schattenarme schießen aus dem Boden: Alle Kreaturen in 20 ft. müssen einen DC 17 STR Save machen oder sind restrained. Restrained Kreaturen können am Anfang ihres Zuges erneut versuchen, den Save zu schaffen.
+#### Shadow Grasp (Recharge 5–6)
+Schattenarme schießen aus dem Boden: Alle Kreaturen in 20 ft. müssen einen DC 17 STR Save machen oder sind restrained. Restrained Kreaturen können am Anfang ihres Zuges erneut versuchen, den Save zu schaffen.
 
-Bedtime Horror (Recharge 6). Das Monster breitet sich wie ein Schatten unter einem riesigen Bett aus. Alle Kreaturen in 30 ft. müssen einen DC 17 WIS Save machen:
+#### Bedtime Horror (Recharge 6)
+Das Monster breitet sich wie ein Schatten unter einem riesigen Bett aus. Alle Kreaturen in 30 ft. müssen einen DC 17 WIS Save machen:
 
 Fail: 4d10 psychic dmg + prone + disadvantage auf Angriffswürfe bis Ende ihres nächsten Zuges.
 
@@ -98,17 +102,26 @@ Success: halber Schaden, kein prone.
 
 ---
 
-Legendary Actions (3 pro Runde, nur 1 pro Zug)
+### Legendary Actions 
+(3 pro Runde, nur 1 pro Zug)
 
-Whisper of Fear. Eine Kreatur in 30 ft. macht einen DC 17 WIS Save oder erleidet 2d8 psychic dmg und ist frightened, bis Ende ihres nächsten Zuges.
+#### Whisper of Fear
+Eine Kreatur in 30 ft. macht einen DC 17 WIS Save oder erleidet 2d8 psychic dmg und ist frightened, bis Ende ihres nächsten Zuges.
 
-Shadow Slip. Das Monster teleportiert sich bis zu 20 ft. in Schatten und erhält Vorteil auf seinen nächsten Angriff.
+#### Shadow Slip
+Das Monster teleportiert sich bis zu 20 ft. in Schatten und erhält Vorteil auf seinen nächsten Angriff.
 
-Drag Beneath (2 Aktionen). Eine frightened oder grappled Kreatur wird in die Schatten gezogen → wie Banishment, bis Ende des Monsters nächster Zug.
+#### Drag Beneath 
+(2 Aktionen)
+Eine frightened oder grappled Kreatur wird in die Schatten gezogen → wie Banishment, bis Ende des Monsters nächster Zug.
 
-Bedtime Stories (2 Aktionen). Alle Kreaturen in 20 ft. machen DC 17 WIS Save: on fail prone + disadvantage auf den nächsten Angriff.
+#### Bedtime Stories
+(2 Aktionen)
+Alle Kreaturen in 20 ft. machen DC 17 WIS Save: on fail prone + disadvantage auf den nächsten Angriff.
 
-Nightmare Surge (3 Aktionen). Schattenarme schlagen in 30 ft. um das Monster. Alle Kreaturen machen DC 17 DEX Save:
+#### Nightmare Surge
+(3 Aktionen)
+Schattenarme schlagen in 30 ft. um das Monster. Alle Kreaturen machen DC 17 DEX Save:
 
 Fail: 4d10 necrotic dmg + restrained (STR Save DC 17 zum Befreien).
 
@@ -118,7 +131,8 @@ Success: halber Schaden, kein restrained.
 
 ---
 
-Lair Actions (im Traumreich)
+### Lair Actions
+(im Traumreich)
 
 Am Initiativecount 20 (losing ties) kann das Monster eine der folgenden Aktionen wählen:
 
