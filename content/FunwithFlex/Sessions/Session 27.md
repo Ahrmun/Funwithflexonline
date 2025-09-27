@@ -21,3 +21,4 @@ tags:
 
 ## Story
 
+Nachdem sie den Tempel von Frazz-Urb'luu unbeschadet verlassen hatten, trafen die SCs auf einer Lichtung einen Reisenden Händler, der in einem Dorf in der Nähe eine Lieferung 
