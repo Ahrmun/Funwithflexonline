@@ -1,6 +1,6 @@
 ---
-title: Session xx
-draft: false
+title: Session 27
+draft: true
 tags:
   -
 ---
@@ -20,3 +20,4 @@ tags:
 
 
 ## Story
+
