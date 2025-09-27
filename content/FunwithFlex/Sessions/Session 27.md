@@ -47,4 +47,13 @@ Beim durchqueren des Portals sehen sie folgendes:
 - tief fliegende pinke Zuckerwattenwolken 
 - Straßen aus Waffeln und Holzklötzen 
 - Bäume mit Augen als Blätter ( die AugenWeide )
-- eine riesige lachende! #Sonne 
+- eine riesige lachende! Sonne
+- es laufen einzelne Märchenfiguren Rum ( Geißlein, der Lebkuchenmann, Wichtel )
+- wenn sie eine Person fragen, wird diese erst nach Billy Fragen (William Bull, der Schmied) 
+- Billy wurde verschleppt und in die Kissenburg gebracht 
+
+## Quest 
+- rettet Billy 
+- begebt euch zur Kissenburg
+
+### Hindernisse im Dungeon
