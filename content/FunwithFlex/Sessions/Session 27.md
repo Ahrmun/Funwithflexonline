@@ -1,6 +1,6 @@
 ---
 title: Session 27
-draft: false
+draft: true
 tags:
   -
 ---
@@ -94,17 +94,9 @@ Gegneroption: 2d4 [[Magma Mephits]], die von Insel zu Insel springen.
 
 Beschreibung: Ein langer Gang voller Spiegel, die die Helden als Kinder zeigen. Einige Spiegelbilder treten aus dem Glas.
 
-Mechanik:
-
-Jeder SC würfelt WIS Save DC 15 beim Betreten.
-
-Misslingen: Ein „Mini-Me“ erscheint (Reskin: Animated Armor mit den Waffenfähigkeiten des SC, aber HP halbiert).
-
 
 Nur durch das Besiegen oder Umarmen (!) des Spiegelbilds kann man es bannen.
 
-
-Bonus: Die SCs können Hinweise zu ihrer Kindheitsangst erhalten (Foreshadowing fürs Bossmonster).
 
 
 
