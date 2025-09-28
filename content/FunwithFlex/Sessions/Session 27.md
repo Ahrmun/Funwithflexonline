@@ -122,7 +122,7 @@ Wände der Burg können einstürzen, wenn jemand STR > 20 Schaden anrichtet.
 
 Gegner: Swarm of Plushies (Reskin von Swarm of Quippers, aber Kuscheltiere, die festhalten statt beißen).
 
-In der Mitte thront ein übergroßes Kuscheltier (z. B. ein [[Teddybär]]), korrumpiert vom Monster → Owlbear-Statblock, aber flauschig.
+In der Mitte thront ein übergroßes Kuscheltier (z. B. ein [[Teddybär]]), korrumpiert vom Monster, aber flauschig.
 
 
 Ziel: Die Gruppe muss das Herz der Burg finden (ein Bett, unter dem es seltsam pulsiert) → Durchgang zum Boss.
