@@ -49,16 +49,14 @@ Beim durchqueren des Portals sehen sie folgendes:
 - Bäume mit Augen als Blätter ( die AugenWeide )
 - eine riesige lachende! Sonne
 - es laufen einzelne Märchenfiguren Rum ( Geißlein, der Lebkuchenmann, Wichtel )
-- wenn sie eine Person fragen, wird diese erst nach Billy Fragen (William Bull, der Schmied) 
-- Billy wurde verschleppt und in die Kissenburg gebracht 
 
 ## Quest 
-- rettet Billy 
+- %%rettet Billy %%
 - begebt euch zur Kissenburg
 
 ### Hindernisse im Dungeon
 
-1. Der Ritzenweg (Einstieg)
+1. Der Ritzenweg 
 
 Beschreibung: Ein endlos langer Weg aus Pflastersteinen. „Nicht auf die Ritzen treten!“ hallt die Stimme eines Kindes.
 
@@ -75,7 +73,7 @@ Je länger die Gruppe braucht, desto mehr Bären tauchen auf → bis zu 8 maxima
 
 ---
 
-2. Der Boden ist Lava (Skill-Challenge)
+2. Der Boden ist Lava 
 
 Beschreibung: Der Raum ist überflutet mit rotem, brodelndem Lava-Licht. Inseln aus Möbelstücken und Kissen schweben darin.
 
@@ -92,7 +90,7 @@ Gegneroption: 2d4 [[Magma Mephits]], die von Insel zu Insel springen.
 
 ---
 
-3. Der Spiegelkorridor (Mindgames)
+3. Der Spiegelkorridor 
 
 Beschreibung: Ein langer Gang voller Spiegel, die die Helden als Kinder zeigen. Einige Spiegelbilder treten aus dem Glas.
 
@@ -112,7 +110,7 @@ Bonus: Die SCs können Hinweise zu ihrer Kindheitsangst erhalten (Foreshadowing 
 
 ---
 
-4. Die Bettdeckenburg (Vorbossraum)
+%%4. Die Bettdeckenburg
 
 Beschreibung: Eine riesige Festung aus Kissen, Decken und Stühlen. Lichterketten glimmen wie Sterne. Aber in den Schatten bewegen sich Dinge …
 
@@ -143,4 +141,4 @@ Gruselhand: Greift aus dem Boden, Grapple + 2d8 Nekrotischer Schaden.
 
 Flüstern im Dunkel: Ein SC macht WIS Save DC 16 oder wird frightened bis Ende der nächsten Runde.
 
-Bettdeckenfalle (1/Tag): Alle SCs im Raum DEX Save DC 17 → bei Fail liegen sie prone und restrained, als ob eine Decke über sie gezogen wurde.
+Bettdeckenfalle (1/Tag): Alle SCs im Raum DEX Save DC 17 → bei Fail liegen sie prone und restrained, als ob eine Decke über sie gezogen wurde.%%
