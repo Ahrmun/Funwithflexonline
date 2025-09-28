@@ -15,16 +15,16 @@ CR 11 (7,200 XP)
 
 ---
 
-Rüstungsklasse: 17 (Schattenfell)
+**Rüstungsklasse:** 17 (Schattenfell)
 
-Trefferpunkte: 210 (20d10+100)
+**Trefferpunkte:** 210 (20d10+100)
 
-Bewegung: 40 ft., Klettern 30 ft., Burrow 10 ft. (nur durch Schatten/Betten)
+**Bewegung:** 40 ft., Klettern 30 ft., Burrow 10 ft. (nur durch Schatten/Betten)
 
 
 ---
 
-Attribute
+**Attribute**
 
 |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|
@@ -34,34 +34,34 @@ Attribute
 
 ---
 
-Rettungswürfe
+**Rettungswürfe**
 
 WIS +7, CHA +8, CON +9
 
 ---
-Fähigkeiten
+**Fähigkeiten**
 
 Stealth +8, Intimidation +8, Perception +7
 
 ---
-Resistenzen
+**Resistenzen**
 
 Kälte, Nekrotisch, Nichtmagische Waffen (außer Silber)
 
 ---
-Immunitäten
+**Immunitäten**
 
 Angstzustände, Schlafzauber
 
 ---
-Sinne
+**Sinne**
 
 Dunkelsicht 120 ft., passive Wahrnehmung 17
 
 ---
-Sprachen
+**Sprachen**
 
-Flüstert alle Sprachen, die Kinder im Dorf sprechen
+Flüstert alle Sprachen, die Kinder im Dorf sprechen in *Französisch*
 
 
 
