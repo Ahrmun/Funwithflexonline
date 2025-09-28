@@ -1,10 +1,10 @@
 ---
-title: Gerrie 
-draft: true
+title: Gerrie
+draft: false
 aliases:
-  - das Monster unter dem Bett 
+  - das Monster unter dem Bett
 tags:
-  - 
+  -
 ---
 
 ## Monster unter dem Bett
