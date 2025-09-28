@@ -26,9 +26,9 @@ Bewegung: 40 ft., Klettern 30 ft., Burrow 10 ft. (nur durch Schatten/Betten)
 
 Attribute
 
-|STR|DEX|CON|INT|WIS|	CHA|
-|
-20 (+5)	14 (+2)	20 (+5)	12 (+1)	16 (+3)	18 (+4)
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|20 (+5)|14 (+2)|20 (+5)|12 (+1)|16 (+3)|18 (+4)|
 
 
 
