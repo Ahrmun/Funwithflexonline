@@ -38,27 +38,27 @@ Rettungswürfe
 
 WIS +7, CHA +8, CON +9
 
-
+---
 Fähigkeiten
 
 Stealth +8, Intimidation +8, Perception +7
 
-
+---
 Resistenzen
 
 Kälte, Nekrotisch, Nichtmagische Waffen (außer Silber)
 
-
+---
 Immunitäten
 
 Angstzustände, Schlafzauber
 
-
+---
 Sinne
 
 Dunkelsicht 120 ft., passive Wahrnehmung 17
 
-
+---
 Sprachen
 
 Flüstert alle Sprachen, die Kinder im Dorf sprechen
