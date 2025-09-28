@@ -6,13 +6,13 @@ tags:
 ---
 ## Anwesende Spieler:
  
-- [x] Barbrek Donnerfaust
-- [ ] Gel-Drogg
-- [ ] Gloin Silberhammer
-- [x] Grimm Buckman
-- [x] Huldur
-- [x] Peon der Dritte
-- [ ] Ray Remorse the Horned Knight
+- [ ] Barbrek Donnerfaust
+- [x] Gel-Drogg
+- [x] Gloin Silberhammer
+- [ ] Grimm Buckman
+- [ ] Huldur
+- [ ] Peon der Dritte
+- [x] Ray Remorse the Horned Knight
 
 
 ## Ausgang von letzter Session
