@@ -35,11 +35,11 @@ Die SCs finden folgende Sceneries:
 - wenn diese an dem Haus angelangt ist, DC 15 athletics um die Tür aufzureißen, da diese durch eine Kraft zugehalten wird ... Wirkt wie ein Wakeum %%
 - beim öffnen der Tür wird es auf einmal still ... Die SCs sehen die Box mit dem Symbol einer Wolke oben 
 - nachdem Huldur den Würfel aufgenommen hatte öffnete sich ein Portal in eine wundersame traumhafte Welt 
-- die SCs wurden in diese durch einen Sog gezogen und fanden sich 
+- die SCs wurden in diese durch einen Sog gezogen und fanden sich vor einem langen blauen Weg wieder 
 
 ## In der Traum Ebene 
 
-Die Traum Ebene befindet sich zwischen der Materiellen und dem Fayewild. Sie wird sich die Vorstellungskraft der Materiellen Eben bevölkert und dem entsprechend sind die Wesen und die Welt im allgemeinen.
+%%Die Traum Ebene befindet sich zwischen der Materiellen und dem Fayewild. Sie wird sich die Vorstellungskraft der Materiellen Eben bevölkert und dem entsprechend sind die Wesen und die Welt im allgemeinen.%%
 
 Beim durchqueren des Portals sehen sie folgendes:
 
