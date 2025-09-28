@@ -31,11 +31,11 @@ Die SCs finden folgende Sceneries:
 - sie stehen/liegen mit aufgerissenen Augen da
 - sie lachen, weinen, schreien
 - auch Tiere befinden sich in diesem Zustand Vögel liegen auf dem Boden und Katzen hängen schräg in den Bäumen fest
-%- Perception/Investigation DC 15 = die Gruppe bemerkt einen gewissen Luftzug in Richtung eines Hauses 
-- wenn diese an dem Haus angelangt ist, DC 15 athletics um die Tür aufzureißen, da diese durch eine Kraft zugehalten wird ... Wirkt wie ein Wakeum %
+%%- Perception/Investigation DC 15 = die Gruppe bemerkt einen gewissen Luftzug in Richtung eines Hauses 
+- wenn diese an dem Haus angelangt ist, DC 15 athletics um die Tür aufzureißen, da diese durch eine Kraft zugehalten wird ... Wirkt wie ein Wakeum %%
 - beim öffnen der Tür wird es auf einmal still ... Die SCs sehen die Box mit dem Symbol einer Wolke oben 
-- eine leichte Melodie wie von einem Schlaflied scheint über die Luft zu dem Ohren zu säuseln und bringt die SCs zu dem Bett zu sehen, wo das Portal aufspringt 
-- DC 20 athletics um gegen den Zug anzukämpfen, an sonsten werden diese in die Traumwelt gezogen.
+- nachdem Huldur den Würfel aufgenommen hatte öffnete sich ein Portal in eine wundersame traumhafte Welt 
+- die SCs wurden in diese durch einen Sog gezogen und fanden sich 
 
 ## In der Traum Ebene 
 
