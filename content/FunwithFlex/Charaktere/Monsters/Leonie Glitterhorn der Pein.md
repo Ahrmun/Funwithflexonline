@@ -1,11 +1,11 @@
 ---
 title: Leonie Glitterhorn der Pein
-draft: true
+draft: false
 tags:
   -
 ---
  
-Medium Fey, Chaotic Neutral
+Medium Fey, Chaotic Good
 Challenge Rating: 9 (5,000 XP)
 
 
