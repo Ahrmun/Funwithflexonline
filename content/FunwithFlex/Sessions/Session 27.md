@@ -1,6 +1,6 @@
 ---
 title: Session 27
-draft: true
+draft: false
 tags:
   -
 ---
