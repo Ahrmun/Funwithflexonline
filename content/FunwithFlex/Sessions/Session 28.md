@@ -6,13 +6,13 @@ tags:
 ---
 ## Anwesende Spieler:
  
- - [ ] Barbrek Donnerfaust
+ - [x] Barbrek Donnerfaust
  - [ ] Gel-Drogg
- - [ ] Gloin Silberhammer
+ - [x] Gloin Silberhammer
  - [ ] Grimm Buckman
  - [ ] Huldur
  - [ ] Peon der Dritte
- - [ ] Ray Remorse the Horned Knight
+ - [x] Ray Remorse the Horned Knight
 
 
 ## Ausgang von letzter Session
@@ -21,3 +21,4 @@ Leonie ist noch auf der anderen Seite im Spiegelraum und kommt durch ihre massiv
 
 
 ## Story
+Nachdem die Truppe herausgefunden hat, dass die einzige Grenze ihre eigene a

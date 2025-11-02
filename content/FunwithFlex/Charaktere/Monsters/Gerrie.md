@@ -1,6 +1,6 @@
 ---
 title: Gerrie
-draft: false
+draft: true
 aliases:
   - das Monster unter dem Bett
 tags:
