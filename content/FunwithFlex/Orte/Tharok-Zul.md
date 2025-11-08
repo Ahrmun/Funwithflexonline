@@ -1,4 +1,4 @@
-**Tharok-Zul – „Die Krone unter dem Berg“** ist die Hauptstadt der Zwerge und befindet sich tief im [[Sonnengebirge]]. Neben den Metallen, Edelsteinen und Handwerkserzeignissen, Handeln die Zwerge noch mit einem bestimmten Pilz-belegten Hopfen, der zur Herstellung vom Gold Hopworks Bier nicht mehr wegzudenken ist.
+**Tharok-Zul – „Die Krone unter dem Berg“** ist die Hauptstadt der Zwerge und befindet sich tief im [[Sonnengebirge]]. Neben den Metallen, Edelsteinen und Handwerkserzeugnissen, Handeln die Zwerge noch mit einem bestimmten Pilz-belegten Hopfen, der zur Herstellung vom Gold Hopworks Bier nicht mehr wegzudenken ist.
 
 ## Regierung 
 Die Herrscher der Zwerge sind so organisiert, dass es einen Rat aus allen oberen Clan-Vorsteher gibt, die beim Tode des Zwergenkönigs einen neuen Amtsträger aus ihren Reihen erwählen. Der König hat nicht nur eine symbolische Position inne, sondern hat auch die Entscheidungsgewalt, die nicht angezweifelt wird. Die restlichen Clan-Oberhäupter sind Berater und Verwalter von einzelnen Aufgaben und Zünften.

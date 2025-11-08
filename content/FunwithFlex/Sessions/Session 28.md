@@ -21,4 +21,6 @@ Leonie ist noch auf der anderen Seite im Spiegelraum und kommt durch ihre massiv
 
 
 ## Story
-Nachdem die Truppe herausgefunden hat, dass die einzige Grenze ihre eigene a
+Nachdem die Truppe herausgefunden hat, dass die einzige Grenze ihre eigene Fantasie ist, hatte sich direkt nicht nur Gloin riesig, sondern Ray sich auch klein gemorpht.
+
+Schließlich standen sie vor der Kissenburg um zugleich von dem Torwächter Sir Flauschelot, oder nach der Überlegung Gloins Sir Wienie vom Rügenwald empfangen zu werden. Dieser konnte aber durch einen sprechenden Ball überwunden werden, wodurch die Gruppe ins innere gelangte. In der Burg selbst war es nicht nur gemütlich, sondern auch 
