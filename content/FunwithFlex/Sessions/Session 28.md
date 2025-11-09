@@ -1,6 +1,6 @@
 ---
 title: Session 28
-draft: true
+draft: false
 tags:
   -
 ---
