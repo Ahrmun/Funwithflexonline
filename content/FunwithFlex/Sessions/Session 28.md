@@ -6,13 +6,13 @@ tags:
 ---
 ## Anwesende Spieler:
  
- - [x] Barbrek Donnerfaust
- - [ ] Gel-Drogg
- - [x] Gloin Silberhammer
- - [ ] Grimm Buckman
- - [ ] Huldur
- - [ ] Peon der Dritte
- - [x] Ray Remorse the Horned Knight
+ - [ ] Barbrek Donnerfaust
+ - [x] Gel-Drogg
+ - [ ] Gloin Silberhammer
+ - [x] Grimm Buckman
+ - [x] Huldur
+ - [x] Peon der Dritte
+ - [ ] Ray Remorse the Horned Knight
 
 
 ## Ausgang von letzter Session
@@ -25,3 +25,6 @@ Nachdem die Truppe herausgefunden hat, dass die einzige Grenze ihre eigene Fanta
 
 Schließlich standen sie vor der Kissenburg um zugleich von dem Torwächter Sir Flauschelot, oder nach der Überlegung Gloins Sir Wienie vom Rügenwald empfangen zu werden. Dieser konnte aber durch einen sprechenden Ball überwunden werden, wodurch die Gruppe ins innere gelangte. In der Burg selbst war es nicht nur gemütlich, sondern auch von Lichterketten leicht beleuchtet. Den Kerker verwandelten sie direkt in einen wunderschönen Spa, um anschließend den König davon zu überzeugen, dass die Thronräumlichkeiten so einsturzgefährdet seien, dass er dort eine Zeit übernachten musste. Gloin hatte sich dabei als ausgezeichneter Sachverständiger ausgegeben und musste nicht auf seine Äxte zurückgreifen. Im hinteren Teil des Trohnsaals fanden sie einen kleinen Durchgang zu einer unterirdischen Höhle, die weit unter das hiesige Bett führte. 
 Dort fanden sie nicht nur eine kindliche Ausgabe von William Bull dem Schmied, sondern auch eine riesige schwarze schleimige drachenartige Gestalt, die mit ihren Schatten versuchte die Gruppe festzuhalten. Zu guter Letzt wurde das Ungetüm besiegt und ehe sie es sich versahen sog unsere Gruppe ein Portal wieder in ihre Ebene zurück.
+
+## Epilog
+Das Dorf  war wieder aus der Trance zurück gekehrt und unsere Gruppe wieder in ihrer Ebene. Von dem noch etwas verwirrten William Bull haben sie erfahren, von wem er das Artefakt q
