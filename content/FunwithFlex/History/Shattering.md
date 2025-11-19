@@ -1,6 +1,6 @@
 ---
 title: Shattering
-draft: true
+draft: false
 tags:
 ---
 

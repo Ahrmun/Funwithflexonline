@@ -1,6 +1,6 @@
 ---
 title: Ashkah
-draft: true
+draft: false
 tags:
 ---
 
