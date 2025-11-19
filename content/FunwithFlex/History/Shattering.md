@@ -1,3 +1,9 @@
+---
+title: Shattering
+draft: true
+tags:
+---
+
 Aktuelles Jahr: Post-Shattering (Jahre 200 PS) – Alles Böse war von Helden der Vorzeit gebündelt und weggesperrt worden (im Hollow Hell) = Jahrtausende langer Friede!
 
 Vor 200 Jahren gab es eine riesige Explosion im [[Hollow Hell]]. Sie löste ein sehr schweres Erdbeben aus, das im ganzen Land zu spüren war. Und das Böse wurde in alle Winde verstreut und kann seit dem überall plötzlich auftauchen! Plötzlich konnte die Gefahr überall lauern, besonders außerhalb der Städte!

@@ -1,3 +1,9 @@
+---
+title: Ashkah
+draft: true
+tags:
+---
+
 ```leaflet
 id: Ashkah-Map
 image: [[Ashkah_clear_2.png]]
