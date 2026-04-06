@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/FunwithFlex/Götterwesen/blubbi.md",
+                "file": "content/FunwithFlex/Götterwesen/Verdarynn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blubbi"
+              "title": "Verdarynn"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/FunwithFlex/Götterwesen/blubbi.md",
+                "file": "content/FunwithFlex/Götterwesen/Verdarynn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf blubbi"
+              "title": "Rückverweise auf Verdarynn"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/FunwithFlex/Götterwesen/blubbi.md",
+                "file": "content/FunwithFlex/Götterwesen/Verdarynn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von blubbi öffnen"
+              "title": "Ausgehende Links von Verdarynn öffnen"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/FunwithFlex/Götterwesen/blubbi.md",
+                "file": "content/FunwithFlex/Götterwesen/Verdarynn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von blubbi"
+              "title": "Gliederung von Verdarynn"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "16b6c4cbb6e479f7",
   "lastOpenFiles": [
-    "content/FunwithFlex/Götterwesen/Verdarynn.md",
     "content/FunwithFlex/Götterwesen/blubbi.md",
+    "content/FunwithFlex/Götterwesen/Verdarynn.md",
     "content/FunwithFlex/Götterwesen/Gruumsh.md",
     "content/FunwithFlex/Fraktionen/Kult der Vergessenen.md",
     "content/FunwithFlex/Fraktionen/Erzwacht.md",
