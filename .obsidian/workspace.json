@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "02280cf7c9d727b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d84731cbf996f7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16b6c4cbb6e479f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/FunwithFlex/Götterwesen/blubbi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "blubbi"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43f68f967641cb10",
+    "type": "split",
+    "children": [
+      {
+        "id": "305dac31326a9a2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90fa1aec254c3299",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "7878b5a232cf24a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "6c0150b564c52f4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f32b394f414d52ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b57833fb487db98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcebe8446819d6d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/FunwithFlex/Götterwesen/blubbi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise auf blubbi"
+            }
+          },
+          {
+            "id": "75120eb162f7d5f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/FunwithFlex/Götterwesen/blubbi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von blubbi öffnen"
+            }
+          },
+          {
+            "id": "9da0116289c47c2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "157ee7baccc52cf8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "c36d078808a36121",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/FunwithFlex/Götterwesen/blubbi.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von blubbi"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "16b6c4cbb6e479f7",
+  "lastOpenFiles": [
+    "content/FunwithFlex/Götterwesen/Verdarynn.md",
+    "content/FunwithFlex/Götterwesen/blubbi.md",
+    "content/FunwithFlex/Götterwesen/Gruumsh.md",
+    "content/FunwithFlex/Fraktionen/Kult der Vergessenen.md",
+    "content/FunwithFlex/Fraktionen/Erzwacht.md",
+    "content/FunwithFlex/Fraktionen/Die Ernter.md",
+    "content/FunwithFlex/Fraktionen/Eulen.md",
+    "content/FunwithFlex/Fraktionen/Die Binder.md",
+    "content/FunwithFlex/Fraktionen/Die Erben der Schuppe.md",
+    "Fraktionen/Erzwacht.md"
+  ]
+}
