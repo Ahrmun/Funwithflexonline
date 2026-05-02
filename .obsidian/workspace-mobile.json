@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/FunwithFlex/Orte/Harbour's Gate.md",
-                "mode": "source",
+                "file": "content/FunwithFlex/Charaktere/NPCs/Bad/Ter’nock.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Harbour's Gate"
+              "title": "Ter’nock"
             }
           }
         ]
@@ -159,6 +159,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -171,6 +173,10 @@
   "active": "9c680bdd103eeb06",
   "lastOpenFiles": [
     "content/FunwithFlex/Charaktere/Monsters/Gerrie.md",
+    "content/FunwithFlex/Charaktere/Monsters/Black Bears.md",
+    "content/FunwithFlex/Charaktere/Monsters/Magma Mephits.md",
+    "content/FunwithFlex/Charaktere/Monsters/Leonie Glitterhorn der Pein.md",
+    "content/FunwithFlex/Charaktere/Monsters/Sir Flauschelot.md",
     "content/FunwithFlex/Orte/Harbour's Gate.md",
     "content/FunwithFlex/Orte/Hauerforst.md",
     "content/FunwithFlex/Orte/Gold Hopworks.md",
@@ -185,12 +191,8 @@
     "content/FunwithFlex/Charaktere/NPCs/Bad/Blood Dragon Asrakul Venthra.md",
     "content/FunwithFlex/Fraktionen/Kult der Vergessenen.md",
     "content/FunwithFlex/Orte/Tharok-Zul.md",
-    "content/FunwithFlex/Charaktere/Monsters/Leonie Glitterhorn der Pein.md",
-    "content/FunwithFlex/Charaktere/Monsters/Sir Flauschelot.md",
-    "content/FunwithFlex/Charaktere/Monsters/Magma Mephits.md",
     "content/FunwithFlex/Charaktere/Monsters/Teddybär.md",
     "content/FunwithFlex/Sessions/Session 27.md",
-    "content/FunwithFlex/Charaktere/Monsters/Black Bears.md",
     "content/FunwithFlex/Sessions/Session 2.md",
     "Untitled.md",
     "content/index.md",
