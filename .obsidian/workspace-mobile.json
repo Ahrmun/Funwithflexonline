@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/FunwithFlex/Orte/Fahrenguard.md",
+                "file": "content/FunwithFlex/Charaktere/NPCs/Unknown/Otto Pennington.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fahrenguard"
+              "title": "Otto Pennington"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "9c680bdd103eeb06",
   "lastOpenFiles": [
+    "content/FunwithFlex/Orte/Fahrenguard.md",
+    "content/FunwithFlex/Charaktere/NPCs/Unknown/Otto Pennington.md",
+    "Orte/Fahrenguard.md",
     "content/FunwithFlex/Orte/Constantia.md",
     "content/FunwithFlex/Orte/Hauerforst.md",
     "content/FunwithFlex/Charaktere/NPCs/Unknown/Onior-Rajah.md",
@@ -187,7 +190,6 @@
     "content/FunwithFlex/Charaktere/Monsters/Sir Flauschelot.md",
     "content/FunwithFlex/Orte/Harbour's Gate.md",
     "content/FunwithFlex/Orte/Gold Hopworks.md",
-    "content/FunwithFlex/Orte/Fahrenguard.md",
     "content/FunwithFlex/History/Shattering.md",
     "content/FunwithFlex/Gegenstände/Orb von Fraz-Urb'luu.md",
     "content/FunwithFlex/Fraktionen/Die Erben der Schuppe.md",
@@ -197,7 +199,6 @@
     "content/FunwithFlex/Sessions/Session 27.md",
     "content/FunwithFlex/Sessions/Session 2.md",
     "Untitled.md",
-    "content/index.md",
     "Orte",
     "Charaktere/NPCs/Unknown",
     "Charaktere/NPCs/Good",
