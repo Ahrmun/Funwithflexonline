@@ -4,7 +4,7 @@ draft: false
 tags:
   -
 ---
-Constantia ist die Hauptstadt des Königreichs Ashkah und beheimatet den Königlichen Sitz von [[content/FunwithFlex/Charaktere/NPCs/Unknown/Onior-Rajah|Onior-Rajah]]
+Constantia ist die Hauptstadt des Königreichs Ashkah und beheimatet den Königlichen Sitz von [[Onior-Rajah]]
 
 %%
 Eine pulsierende Metropole wo Magie und Mechanik untrennbar verschmelzt sind. Konstrukte patrouillieren als Stadtwache, Straßenlaternen leuchten automatisch, fliegende Liefersysteme surren über den Dächern. Die Stadt riecht nach Öl, Ozon und heißem Metall.
