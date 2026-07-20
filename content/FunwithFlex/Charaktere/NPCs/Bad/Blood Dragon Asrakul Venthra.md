@@ -16,7 +16,7 @@ Asrakul Venthra wurde vor mehreren tausenden von Jahre als die Welt noch jung wa
 Sie wurde überheblich und grausam, und nachdem sie zu einem noch höheren Wesen aufsteigen wollte, von Verdarynn besiegt und in den Tiefen der [[Hollow Hell]] verschlossen.
 
 # Das Shattering
-Sie schwor sich ewige Rache und konnte mit Hilfe ihrer Anhänger Veradrynn in eine Falle locken und ihn für die Öffnung der Hollow Hell opfern. Leider war die magisch Energie, welche damals zur verfügung stand zu wenig und das Portal schloss sich, bevor sie ausbrechen konnte. Zu mindestens Ganz…. Eine kleine Essence von ihr konnte sich im letzten Moment herauswinden und manifestierte sich in einem Blutroten Edelstein, welcher von [[Ter’nock]] gefunden wurde.  
+Sie schwor sich ewige Rache und konnte mit Hilfe ihrer Anhänger Veradrynn in eine Falle locken und sie für die Öffnung der Hollow Hell opfern. Leider war die magisch Energie, welche damals zur verfügung stand zu wenig und das Portal schloss sich, bevor sie ausbrechen konnte. Zu mindestens Ganz…. Eine kleine Essence von ihr konnte sich im letzten Moment herauswinden und manifestierte sich in einem Blutroten Edelstein, welcher von [[Ter’nock]] gefunden wurde.  
 
 # Post Shattering
 Dieser Edelstein wurde aufgeteilt und in die Dolche der obersten Kultisten, die 4 Chambers, eingelassen um die nötige magische Kraft zu sammeln.
