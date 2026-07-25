@@ -209,30 +209,7 @@ _Nocturnia – Schatten zum Lachen_ ist vor den Stadttoren angekommen.
 
 
 
-Ergebnis	Auswirkung
-Erfolg	Einlass mit Begleitung zu Corden
-Misserfolg	Werden höflich weggeschickt – weiter zu Option B
 
-Option B – Über die Mauer fliegen: Ray bläst in die Pfeife. Die Skelette erwachen. Das Schiff hebt ab.
-
-Barbrek schaut nach unten. Dann nach oben. Dann wieder nach unten. "Das ist... ungewöhnlich." (setzt sich wieder hin) "Aber effizient."
-
-SL-Hinweis: Niemand hat mit einem fliegenden Geisterschiff gerechnet. Die Linsenreiter drehen verwirrt ihre Köpfe. Es gibt keine Regel dafür. Ray landet auf einem freien Platz in der Stadt – Perception DC 12 für umliegende NPCs die sofort Abstand halten.
-
-Option C – Barbrek klopft einfach an: Barbrek geht allein zur Wache, ohne Maske, ohne Brief. "Ich bin Zwerg. Ich möchte die Stadt sehen."
-
-Die Wache schaut ihn an. Schaut die Konstrukte an. Schaut wieder ihn an. DC 10 – Zwerge sind in Constantia respektiert wegen ihrer Handwerksgeschichte.
-
-Szene 2 – Barbrek betritt Constantia
-
-Barbrek als Zwergenmönch sieht Constantia anders als alle anderen. Er sieht nicht den Lärm oder den Trubel – er sieht Handwerk. Sehr seltsames, unnatürliches Handwerk, aber Handwerk.
-
-"Die Nähte an diesem Eisenwächter... das ist Zwerg-Technik. Aber verändert." (schaut genauer) "Wer auch immer das gebaut hat, hatte Zugang zu sehr alten Bauplänen."
-
-History DC 14 für Barbrek: Die Grundstruktur der Eisenwächter basiert tatsächlich auf uralten Zwerg-Konstrukten aus der Zeit vor dem Shattering. Rajah oder jemand in seinem Dienst hat diese Pläne irgendwo gefunden.
-
-SL-Hinweis: Das ist ein subtiler Hinweis auf die VerbindunStrang A – Huldur & Grimm
-Szene 1 – Das Tor öffnet sich
 
 Der Tunnel endet abrupt. Kein langsames Heller-werden – eine Wand aus Licht, Lärm und Bewegung.
 
