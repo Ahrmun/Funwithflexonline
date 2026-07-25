@@ -211,38 +211,7 @@ _Nocturnia – Schatten zum Lachen_ ist vor den Stadttoren angekommen.
 
 
 
-Der Tunnel endet abrupt. Kein langsames Heller-werden – eine Wand aus Licht, Lärm und Bewegung.
 
-Runenlichter überall. Das Zischen von Dampfleitungen. Konstrukte die sich durch die Menge bewegen ohne jemanden anzuschauen. Händler die in drei Sprachen gleichzeitig rufen. Der Geruch von heißem Metall, Räucherwerk und zu vielen Menschen auf zu engem Raum.
-
-Huldurs Wisdom Save
-
-DC 13 – Reizüberflutung beim Betreten der Stadt.
-
-Ergebnis	Auswirkung
-Erfolg	Sie sammelt sich schnell – aber die Stadt bleibt unangenehm
-Misserfolg	Zustand Frightened für 1 Runde – Disadvantage auf alle Würfe
-
-Blood Oath Dagger Moment: Unabhängig vom Wurf – der Dagger wird warm gegen ihre Hüfte. Fast beruhigend. Als würde er anbieten den Lärm auszublenden. Nur eine kurze Beschreibung, kein Wurf nötig. Huldur entscheidet selbst.
-
-"Mitten im Chaos spürst du den Griff des Daggers warm gegen deine Hüfte. Fast... einladend."
-
-Grimms Reaktion
-
-Grimm verschwindet instinktiv in der Menge. Nicht böswillig – er fühlt sich einfach sofort zuhause. Passive Perception DC 12 für Huldur um ihn noch zu sehen bevor er weg ist.
-
-SL-Hinweis: Beide Stränge können ab hier getrennt gespielt werden und später zusammengeführt werden.
-
-Szene 2 – Grimm in der Stadt
-Pip der Neuankömmlingsräuber
-
-Ein junger frecher Halbling der sich auf frisch Eingereiste spezialisiert hat. Arbeitet mit einem Schema – erst freundlich helfen, Weg zeigen, dabei die Börse leeren.
-
-Grimm bemerkt ihn: Passive Perception DC 12.
-
-Bei Erfolg sieht Grimm genau was Pip tut – er erkennt das Schema sofort. Zwei Optionen:
-
-Option A – Konkurrenten: "Schönes Revier. Zu schade dass es schon besetzt ist." Pip ist frech aber nicht dumm. Nach kurzem Kräftemessen respektiert er Grimm als gleichwertig. Könnte Informant werden.
 
 Option B – Kollegen: Grimm lässt Pip arbeiten und beobachtet. Lernt dabei die Bewegungsmuster der Linsenreiter.
 
