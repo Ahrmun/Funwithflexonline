@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/FunwithFlex/Sessions/Session 32.md",
-                "mode": "source",
+                "file": "content/FunwithFlex/Sessions/Session 31.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 32"
+              "title": "Session 31"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/FunwithFlex/Sessions/Session 32.md",
+            "file": "content/FunwithFlex/Sessions/Session 31.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,8 +172,8 @@
   },
   "active": "9c680bdd103eeb06",
   "lastOpenFiles": [
-    "content/FunwithFlex/Sessions/Session 31.md",
     "content/FunwithFlex/Sessions/Session 32.md",
+    "content/FunwithFlex/Sessions/Session 31.md",
     "content/FunwithFlex/Sessions/Session 31 1.md",
     "content/FunwithFlex/Charaktere/PCs/Grimm Buckman.md",
     "content/FunwithFlex/Gegenstände/Seelensplitter.md",
