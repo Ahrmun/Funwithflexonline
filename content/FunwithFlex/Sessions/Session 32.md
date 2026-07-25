@@ -208,24 +208,6 @@ _Nocturnia – Schatten zum Lachen_ ist vor den Stadttoren angekommen.
 
 
 
-Wenn Huldur reinschaut: Tessri schaut kurz auf. "Waldelfe. Selten hier. Was brauchst du?" Keine Umschreibung, kein Smalltalk.
-
-Perception DC 12: An der Wand hängen Skizzen von komplexeren Projekten die nie fertiggestellt wurden. Darunter etwas das verdächtig nach einem vollständigen Konstruktarm aussieht – mit Runen die Huldur nicht einordnen kann.
-
-Arcana DC 15: Die Runen auf der Skizze sind keine Artificer-Magie. Sie sind älter. Viel älter.
-
-Strang B – Ray & Barbrek
-Szene 1 – Ray trifft Barbrek
-
-Ray kommt zurück zum Schiff. Barbrek sitzt auf dem Deck, meditiert, völlig unbeeindruckt von den Skelett-Ruderern.
-
-"Ah. Du bist also der Captain." (öffnet ein Auge) "Kommen wir jetzt irgendwann in die Stadt?"
-
-Optionen für den Einlass
-
-Option A – TGO-Masken: Ray erklärt Barbrek die Situation. Barbrek runzelt die Stirn. "Wir verkleiden uns... um reinzukommen?" (kurze Pause) "Gut."
-
-Beide zur Wache – andere Schicht, andere Wache. DC 11 Persuasion mit Masken und Brief als Advantage.
 
 Ergebnis	Auswirkung
 Erfolg	Einlass mit Begleitung zu Corden
