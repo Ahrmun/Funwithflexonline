@@ -208,14 +208,6 @@ _Nocturnia – Schatten zum Lachen_ ist vor den Stadttoren angekommen.
 
 
 "
-Szene 2 – Grimm in der Stadt
-Pip der Neuankömmlingsräuber
-
-Ein junger frecher Halbling der sich auf frisch Eingereiste spezialisiert hat. Arbeitet mit einem Schema – erst freundlich helfen, Weg zeigen, dabei die Börse leeren.
-
-Grimm bemerkt ihn: Passive Perception DC 12.
-
-Bei Erfolg sieht Grimm genau was Pip tut – er erkennt das Schema sofort. Zwei Optionen:
 
 Option A – Konkurrenten: "Schönes Revier. Zu schade dass es schon besetzt ist." Pip ist frech aber nicht dumm. Nach kurzem Kräftemessen respektiert er Grimm als gleichwertig. Könnte Informant werden.
 
