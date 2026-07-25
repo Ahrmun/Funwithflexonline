@@ -207,14 +207,7 @@ _Nocturnia – Schatten zum Lachen_ ist vor den Stadttoren angekommen.
 > - Corden der sich bei der nächsten Begegnung merkwürdig verhält – freundlicher als normal, fast zu freundlichStrang A – Huldur & Grimm
 
 
-"Mitten im Chaos spürst du den Griff des Daggers warm gegen deine Hüfte. Fast... einladend."
-
-Grimms Reaktion
-
-Grimm verschwindet instinktiv in der Menge. Nicht böswillig – er fühlt sich einfach sofort zuhause. Passive Perception DC 12 für Huldur um ihn noch zu sehen bevor er weg ist.
-
-SL-Hinweis: Beide Stränge können ab hier getrennt gespielt werden und später zusammengeführt werden.
-
+"
 Szene 2 – Grimm in der Stadt
 Pip der Neuankömmlingsräuber
 
