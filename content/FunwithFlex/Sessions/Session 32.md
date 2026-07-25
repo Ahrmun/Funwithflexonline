@@ -225,7 +225,7 @@ Grimm findet ihn: Investigation DC 13 in den Seitengassen, oder automatisch wenn
 
 Setch kauft alles ohne Fragen – aber zahlt schlecht. Persuasion DC 14 für faire Preise.
 
-Perception DC 15 bei Setch: An der Wand hängt eine Liste mit gesuchten Gegenständen. Einer davon hat eine ungewöhnlich hohe Belohnung – ein kleiner roter Edelstein der warm leuchtet. Keine weiteren Details.
+Perception DC 15 bei Setch: An der  Wand hängt eine Liste mit gesuchten Gegenständen. Einer davon hat eine ungewöhnlich hohe Belohnung – ein kleiner roter Edelstein der warm leuchtet. Keine weiteren Details.
 
 Szene 3 – Huldur in der Stadt
 Der Grüne Fleck
