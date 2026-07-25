@@ -20,7 +20,7 @@ tags:
 In der Nähe von Constantia angekommen, sicherten sie das Schiff und machten sich zu Fuß auf den Weg in die Hauptstadt. An den Toren wurden jedoch nur Grimm und Huldur durchgelassen, da Ray es mit der Wahrheit etwas zu ernst nahm, als die Gruppe nach magischen Gegenständen gefragt wurde.
 
 ## Story
-%%# Strang A – Huldur & Grimm
+# Strang A – Huldur & Grimm
 
 ## Szene 1 – Das Tor öffnet sich
 
@@ -65,15 +65,15 @@ Bei Erfolg sieht Grimm genau was Pip tut – er erkennt das Schema sofort. Zwei 
 
 > **Pip als Informant:** Er weiß wann die Linsenreiter ihre Routen wechseln, wo die blinden Flecken der Eisenwächter sind, und welche Händler keine Fragen stellen.
 
-### Setch – Der Fingerzeig
+### Landan – Der Langfinger
 
 Kein Schild, keine offizielle Existenz. Hinterhofwerkstatt die gestohlene magische Gegenstände ankauft.
 
 **Grimm findet ihn:** Investigation DC 13 in den Seitengassen, oder automatisch wenn er Pip folgt.
 
-Setch kauft alles ohne Fragen – aber zahlt schlecht. Persuasion DC 14 für faire Preise.
+Landan kauft alles ohne Fragen – aber zahlt schlecht. Persuasion DC 14 für faire Preise.
 
-> **Perception DC 15 bei Setch:** An der Wand hängt eine Liste mit gesuchten Gegenständen. Einer davon hat eine ungewöhnlich hohe Belohnung – ein kleiner roter Edelstein der warm leuchtet. Keine weiteren Details.
+> **Perception DC 15 bei Landan:** An der Wand hängt eine Liste mit gesuchten Gegenständen. Einer davon hat eine ungewöhnlich hohe Belohnung – ein kleiner roter Edelstein der warm leuchtet. Keine weiteren Details.
 
 ---
 
@@ -205,21 +205,7 @@ _Nocturnia – Schatten zum Lachen_ ist vor den Stadttoren angekommen.
 > 
 > - Adlige die nach privaten Vorstellungen leer und teilnahmslos wirken
 > - Corden der sich bei der nächsten Begegnung merkwürdig verhält – freundlicher als normal, fast zu freundlichStrang A – Huldur & Grimm
-Szene 1 – Das Tor öffnet sich
 
-Der Tunnel endet abrupt. Kein langsames Heller-werden – eine Wand aus Licht, Lärm und Bewegung.
-
-Runenlichter überall. Das Zischen von Dampfleitungen. Konstrukte die sich durch die Menge bewegen ohne jemanden anzuschauen. Händler die in drei Sprachen gleichzeitig rufen. Der Geruch von heißem Metall, Räucherwerk und zu vielen Menschen auf zu engem Raum.
-
-Huldurs Wisdom Save
-
-DC 13 – Reizüberflutung beim Betreten der Stadt.
-
-Ergebnis	Auswirkung
-Erfolg	Sie sammelt sich schnell – aber die Stadt bleibt unangenehm
-Misserfolg	Zustand Frightened für 1 Runde – Disadvantage auf alle Würfe
-
-Blood Oath Dagger Moment: Unabhängig vom Wurf – der Dagger wird warm gegen ihre Hüfte. Fast beruhigend. Als würde er anbieten den Lärm auszublenden. Nur eine kurze Beschreibung, kein Wurf nötig. Huldur entscheidet selbst.
 
 "Mitten im Chaos spürst du den Griff des Daggers warm gegen deine Hüfte. Fast... einladend."
 
