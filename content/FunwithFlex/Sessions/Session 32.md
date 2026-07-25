@@ -207,32 +207,6 @@ _Nocturnia – Schatten zum Lachen_ ist vor den Stadttoren angekommen.
 > - Corden der sich bei der nächsten Begegnung merkwürdig verhält – freundlicher als normal, fast zu freundlichStrang A – Huldur & Grimm
 
 
-"
-
-
-
-Kein Schild, keine offizielle Existenz. Hinterhofwerkstatt die gestohlene magische Gegenstände ankauft.
-
-Grimm findet ihn: Investigation DC 13 in den Seitengassen, oder automatisch wenn er Pip folgt.
-
-Setch kauft alles ohne Fragen – aber zahlt schlecht. Persuasion DC 14 für faire Preise.
-
-Perception DC 15 bei Setch: An der Wand hängt eine Liste mit gesuchten Gegenständen. Einer davon hat eine ungewöhnlich hohe Belohnung – ein kleiner roter Edelstein der warm leuchtet. Keine weiteren Details.
-
-Szene 3 – Huldur in der Stadt
-Der Grüne Fleck
-
-Ein kleiner Innenhof mitten in der Stadt wo jemand verzweifelt versucht einen Garten anzulegen. Die Pflanzen wachsen schief, das Licht reicht kaum. Aber es ist das einzige Fleckchen Grün in Constantia.
-
-Eine alte Frau sitzt täglich dort und redet mit den Pflanzen.
-
-Kein Wurf nötig. Einfach ein ruhiger Moment für Huldur. Die alte Frau schaut kurz auf, nickt, und redet weiter mit ihren Pflanzen.
-
-Tessri – Kupfer & Seele
-
-Kleine Augmentierungswerkstatt, betrieben von einer älteren Gnomfrau. Vollgestopft, riecht nach Lötmittel.
-
-Verkauft einfache mechanische Verbesserungen – verstärkte Handgelenke, ein Auge das im Dunkeln sieht, eine Fingerklinge die sich einklappen lässt.
 
 Wenn Huldur reinschaut: Tessri schaut kurz auf. "Waldelfe. Selten hier. Was brauchst du?" Keine Umschreibung, kein Smalltalk.
 
