@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/FunwithFlex/Sessions/Session 31.md",
-                "mode": "preview",
+                "file": "content/FunwithFlex/Sessions/Session 32.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 31"
+              "title": "Session 32"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/FunwithFlex/Gegenstände/Seelensplitter.md",
+            "file": "content/FunwithFlex/Sessions/Session 31.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,8 +172,9 @@
   },
   "active": "9c680bdd103eeb06",
   "lastOpenFiles": [
-    "content/FunwithFlex/Sessions/Session 31 1.md",
     "content/FunwithFlex/Sessions/Session 31.md",
+    "content/FunwithFlex/Sessions/Session 32.md",
+    "content/FunwithFlex/Sessions/Session 31 1.md",
     "content/FunwithFlex/Charaktere/PCs/Grimm Buckman.md",
     "content/FunwithFlex/Gegenstände/Seelensplitter.md",
     "content/FunwithFlex/Charaktere/NPCs/Bad/Blood Dragon Asrakul Venthra.md",
@@ -197,7 +198,6 @@
     "content/FunwithFlex/Gegenstände/Orb von Fraz-Urb'luu.md",
     "content/FunwithFlex/Charaktere/PCs/Gloin Silberhammer.md",
     "content/FunwithFlex/Charaktere/PCs/Huldur.md",
-    "content/FunwithFlex/Fraktionen/TGO.md",
     "content/FunwithFlex/Images/F8FF851F-0517-48CD-9EAD-EE40BD0AE566.jpeg",
     "Orte",
     "Charaktere/NPCs/Unknown",

@@ -171,7 +171,7 @@ _"Die TGO. Natürlich."_ _(nimmt den Brief, schaut auf das Siegel – einen Herz
 
 ---
 
-## Szene 2 – Optional: Der Laufbursche
+￼## Szene 2 – Optional: Der Laufbursche
 
 Wenn die Gruppe den Laufburschen bemerkt und anspricht:
 
@@ -187,7 +187,7 @@ _"Ich... ich sortiere nur die Post. Mehr nicht."_
 
 ---
 
-# Cliffhanger – Ende Session 2
+￼# Cliffhanger – Ende Session 2
 
 Die Gruppe hat Constantia erkundet, den Brief abgegeben – oder versucht es. Der Abend bricht an.
 
