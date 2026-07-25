@@ -55,7 +55,7 @@ Grimm verschwindet instinktiv in der Menge. Nicht böswillig – er fühlt sich 
 
 Ein junger frecher Halbling der sich auf frisch Eingereiste spezialisiert hat. Arbeitet mit einem Schema – erst freundlich helfen, Weg zeigen, dabei die Börse leeren.
 
-**Grimm bemerkt ihn:** Passive Perception DC 12.
+**Grimm bemerkt ihn:** Passive Perception DC 10.
 
 Bei Erfolg sieht Grimm genau was Pip tut – er erkennt das Schema sofort. Zwei Optionen:
 
