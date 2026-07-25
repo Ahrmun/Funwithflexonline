@@ -1,5 +1,5 @@
 ---
-title: Ter’nock
+Title: Ter’nock
 draft: false
 aliases:
   - Ter'nock Wächter der Vergessenen

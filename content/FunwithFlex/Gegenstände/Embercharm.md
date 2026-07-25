@@ -16,3 +16,5 @@ Sobald die HP auf 0 sinkt, verwandelt man sich zurück.
 Wenn man den [[Blood oath dagger]] ausgerüstet hat, gelingt der DC automatisch. Mit jedem getöteten Gegner durch den besagten Dagger wird der Elementar stärker.
 
 Die Fähigkeit ist nur einmal pro langer Rast nutzbar
+
+%% Zentrales Teil des Embercharms ist ein Seelensplitter, welcher die Feueressenz von Verdarynn beheimatet. Bei der Herstellung des Seelensplitters würde diese anstatt eine Humaniode Seele aufgelesen und versiegelt. Dieser Teil von Verdarynn selbst verhindert, dass der Träger des Blood oath dagger vollkommen korrumpiert.%%
