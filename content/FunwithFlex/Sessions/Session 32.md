@@ -55,7 +55,7 @@ Grimm verschwindet instinktiv in der Menge. Nicht böswillig – er fühlt sich 
 
 Ein junger frecher Halbling der sich auf frisch Eingereiste spezialisiert hat. Arbeitet mit einem Schema – erst freundlich helfen, Weg zeigen, dabei die Börse leeren.
 
-**Grimm bemerkt ihn:** Passive Perception DC 12.
+**Grimm bemerkt ihn:** Passive Perception DC 10.
 
 Bei Erfolg sieht Grimm genau was Pip tut – er erkennt das Schema sofort. Zwei Optionen:
 
@@ -65,13 +65,13 @@ Bei Erfolg sieht Grimm genau was Pip tut – er erkennt das Schema sofort. Zwei 
 
 > **Pip als Informant:** Er weiß wann die Linsenreiter ihre Routen wechseln, wo die blinden Flecken der Eisenwächter sind, und welche Händler keine Fragen stellen.
 
-### Setch – Der Fingerzeig
+### Landan – Der Langfinger
 
 Kein Schild, keine offizielle Existenz. Hinterhofwerkstatt die gestohlene magische Gegenstände ankauft.
 
 **Grimm findet ihn:** Investigation DC 13 in den Seitengassen, oder automatisch wenn er Pip folgt.
 
-Setch kauft alles ohne Fragen – aber zahlt schlecht. Persuasion DC 14 für faire Preise.
+Landan kauft alles ohne Fragen – aber zahlt schlecht. Persuasion DC 14 für faire Preise.
 
 > **Perception DC 15 bei Setch:** An der Wand hängt eine Liste mit gesuchten Gegenständen. Einer davon hat eine ungewöhnlich hohe Belohnung – ein kleiner roter Edelstein der warm leuchtet. Keine weiteren Details.
 
