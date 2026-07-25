@@ -11,10 +11,14 @@
             "id": "08b741879cd1ee62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/FunwithFlex/Sessions/Session 32.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Session 32"
             }
           }
         ]
