@@ -209,13 +209,7 @@ _Nocturnia – Schatten zum Lachen_ ist vor den Stadttoren angekommen.
 
 "
 
-Option A – Konkurrenten: "Schönes Revier. Zu schade dass es schon besetzt ist." Pip ist frech aber nicht dumm. Nach kurzem Kräftemessen respektiert er Grimm als gleichwertig. Könnte Informant werden.
 
-Option B – Kollegen: Grimm lässt Pip arbeiten und beobachtet. Lernt dabei die Bewegungsmuster der Linsenreiter.
-
-Pip als Informant: Er weiß wann die Linsenreiter ihre Routen wechseln, wo die blinden Flecken der Eisenwächter sind, und welche Händler keine Fragen stellen.
-
-Setch – Der Fingerzeig
 
 Kein Schild, keine offizielle Existenz. Hinterhofwerkstatt die gestohlene magische Gegenstände ankauft.
 
