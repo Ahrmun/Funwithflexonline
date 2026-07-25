@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1baaa0c61c76945f",
+        "id": "bab5b2f9fc30dbf5",
         "type": "tabs",
         "children": [
           {
-            "id": "0edca6618e092f87",
+            "id": "08b741879cd1ee62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/FunwithFlex/Sessions/Session 0.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -183,9 +179,21 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "90fa1aec254c3299",
+  "active": "08b741879cd1ee62",
   "lastOpenFiles": [
+    "content/FunwithFlex/Sessions/Session 32.md",
+    "content/FunwithFlex/Orte/Sonnengebirge.md",
+    "content/FunwithFlex/Orte/Zum Kotzenden Troll.md",
     "content/FunwithFlex/Sessions/Session 28.md",
+    "content/FunwithFlex/Sessions/Session 31.md",
+    "content/FunwithFlex/Sessions/Session 27.md",
+    "content/FunwithFlex/Sessions/Session 2.md",
+    "content/FunwithFlex/Sessions/Session 1.md",
+    "content/FunwithFlex/Sessions/Session 0.md",
+    "content/FunwithFlex/Orte/Constantia.md",
+    "content/FunwithFlex/Orte/Gold Hopworks.md",
+    "content/FunwithFlex/Orte/Fahrenguard.md",
+    "content/FunwithFlex/Gegenstände/Seelensplitter.md",
     "content/FunwithFlex/Gegenstände/Embercharm.md",
     "content/FunwithFlex/Fraktionen/Kult der Vergessenen.md",
     "content/FunwithFlex/Fraktionen/TGO.md",

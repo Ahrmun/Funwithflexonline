@@ -11,3 +11,7 @@ Andere, die überhaupt tatsächlich noch an ihn glauben, halten das Shattering f
 Namensgeber der [[TGO]]. Wird von ihnen geehrt.
 Stärksten und majestätischsten der Metalldrachen und galten als die Spitze der drakonischen Rasse.
 Anmutig und weise, waren sie unerbittliche und hingebungsvolle Feinde des Bösen, der Ungerechtigkeit und des Betrugs. Sie wurden für ihre Fairness und ihr Wissen respektiert!
+
+%% Sie wurde durch ein Ritual der Binder in ihre 4 Elementaressenzen aufgeteilt. Durch die freigegebenen Energie wurde das erste shattering vor 200 Jahren ausgelöst, und die Welt geriet ins Wanken. 
+
+Die einzelnen Essenzen warten auf den Tag, ansehen sie wieder eins werden und den Riss zur hollow hell für immer verschließen, auf dass das Herz in der Erde endlich versiegelt bleibt. %%
