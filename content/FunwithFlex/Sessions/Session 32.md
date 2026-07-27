@@ -6,9 +6,9 @@ tags:
 ---
 ## Anwesende Spieler:
  
-- [ ] Barbrek Donnerfaust
-- [ ] Gel-Drogg
-- [ ] Gloin Silberhammer
+- [x] Barbrek Donnerfaust
+- [x] Gel-Drogg
+- [x] Gloin Silberhammer
 - [ ] Grimm Buckman
 - [ ] Huldur
 - [ ] Peon der Dritte
