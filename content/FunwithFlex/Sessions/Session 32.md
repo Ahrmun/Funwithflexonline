@@ -1,6 +1,6 @@
 ---
 title: Session 32
-draft: true
+draft: false
 tags:
   -
 ---
