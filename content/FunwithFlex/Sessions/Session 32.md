@@ -71,7 +71,7 @@ Bei Erfolg sieht Grimm genau was Pip tut – er erkennt das Schema sofort. Zwei 
 
 >Leider wurde Pip zu spät von Grimm entdeckt... Er hatte sich schon seine Börse geschnappt
 
-### Landan – Der Langfinger
+### [[Landan]] – Der Langfinger
 
 Kein Schild, keine offizielle Existenz. Versteckte Hinterhofwerkstatt die gestohlene magische Gegenstände ankauft.
 
@@ -149,17 +149,29 @@ Die Wache schaut ihn an. Schaut die Konstrukte an. Schaut wieder ihn an. DC 10 �
 
 ## Szene 2 – Peon und Ray betreten Constantia
 
-
+Beide bemerkten Grimm, der einen Jungen jagte. Peon rannte hinterher um seinen Kameraden zu unterstützen. Ray hingegen machte sich auf den Weg zum Palast um sich mit [[Goldilok]] zu treffen. Vor dem Palast stad [[Fraktal]], die während Goldilok beim Ratstreffen ist, die Werkstätten und Schänken besuchte.
 
 ---
 
 # Strang C – Der Palast
+Von außen wirkt er kaum wie ein Palast – eher wie ein Organismus aus Stein und Stahl der beschlossen hat, sich selbst zu erweitern. Zwischen klassischen Zinnen und Torbögen winden sich Kupferrohre wie Adern, verschwinden in Mauerwerk und tauchen woanders wieder auf. Über dem gesamten Dach ragt ein Wald aus Schornsteinen auf, jeder mit einer eigenen Färbung – manche stoßen weißen Dampf aus, andere einen bläulichen Rauch der nach Ozon riecht, wieder andere einen dünnen grünlichen Schleier den niemand genau erklären kann. Zusammen ergibt es eine Wolke über dem Palast die sich nie ganz auflöst, als würde das Gebäude durchgehend atmen.
+
+## Die Eingangshalle
+Wer die große Tür durchschreitet betritt eine Halle die höher wirkt als jede Kathedrale die man je gesehen hat – die Decke verliert sich fast im Halbdunkel, unterbrochen nur vom Licht einzelner Runenlaternen die in unregelmäßigen Abständen schweben, gehalten von nichts als sanftem arkanen Auftrieb.
+An beiden Längsseiten der Halle stehen sie aufgereiht wie eine stille Wache durch die Zeit: ältere Modelle der Shield Guardians. Die vordersten wirken grob, fast primitiv – klobige Gliedmaßen, sichtbare Nietennähte, das Design eines ersten Versuchs. Je weiter man die Halle entlanggeht, desto eleganter werden die Konstrukte. Schlankere Formen, feinere Gelenke, verzierte Rüstungsplatten mit eingelassenen Runen. Eine Zeitachse der Perfektion, jede Statue ein stiller Zeuge von Rajahs Besessenheit immer weiter zu verbessern was vorher schon funktionierte.
+Keiner der Guardians rührt sich. Aber wer lange genug hinsieht, könnte schwören, dass einzelne von ihnen den Kopf ein winziges Stück gedreht haben, wenn man vorbeigeht.
+
+## Der Thronsaal 
+Der Raum am oberen Ende der Treppe hat seine ursprüngliche Funktion längst hinter sich gelassen. Der Thron selbst ist kaum wiederzuerkennen – verschmolzen mit einem Gestänge aus Kolben und Übertragungsseilen, throhnt er eher wie ein Cockpit als ein Sitz der Macht. Kabel winden sich den Rücken der Lehne hinauf und verschwinden in der Wand dahinter.
+Unweit davon, im Zentrum des Raumes, steht ein großer hölzerner Tisch – der einzige Gegenstand im ganzen Saal der nicht nach Metall riecht. Darauf ausgebreitet liegt eine Karte des Königreichs und seiner Umgebung, an den Rändern leicht ausgefranst von häufigem Gebrauch. Kleine Fähnchen in verschiedenen Farben markieren Städte, Handelsrouten, mutmaßliche Goblin-Bewegungen und offene Fragen.
+Um diesen Tisch versammelt sich für gewöhnlich der Rat – Corden mit seinen ordentlich gestapelten Unterlagen, Goldilok der breitschultrig und unpassend gekleidet danebensteht, und der Hauptmechaniker der öfter auf die Rohre an der Decke schaut als auf die Karte selbst. Zusammen entscheiden sie über die Geschicke eines Königreichs.
 
 ## Szene 1 – Corden, der Verwalter
 
 Egal wie die Gruppe zum Palast kommt – sie landen bei **Corden**.
 
-Mittleres Alter, akkurat gekleidet, leicht gestresst. Loyaler Beamter der seinen Job gut macht. Er ist der unwissentliche Spion – Thervan hat einen Laufburschen in seinem Büro mit Suggestion beeinflusst der bestimmte Briefe falsch einsortiert.
+Mittleres Alter, akkurat gekleidet, leicht gestresst. Loyaler Beamter der seinen Job gut macht.
+%%Er ist der unwissentliche Spion – Thervan hat einen Laufburschen in seinem Büro mit Suggestion beeinflusst der bestimmte Briefe falsch einsortiert.
 
 **Beim Betreten des Vorzimmers:** Das Hämmern und Zischen aus dem Nebenflügel ist deutlich hörbar. Manchmal ein begeistertes Murmeln. Corden schaut kurz zur Tür – dann wieder zur Gruppe.
 
@@ -176,7 +188,7 @@ _"Die TGO. Natürlich."_ _(nimmt den Brief, schaut auf das Siegel – einen Herz
 
 > **Perception DC 12:** Durch die Tür hört man deutlich: _"Ja! JAAAA! Das ist es!"_ Gefolgt von einem lauten Knall und Schweigen. Dann wieder Hämmern.
 
-> **Perception DC 15:** Ein junger Goblin-Laufbursche – ungewöhnlich für einen Königspalast – sortiert in der Ecke Briefe. Er schaut kurz zur Gruppe, dann schnell weg.
+> **Perception DC 15:** Ein junger Goblin-Laufbursche – ungewöhnlich für einen Königspalast – sortiert in der Ecke Briefe. Er schaut kurz zur Gruppe, dann schnell weg.%%
 
 ---
 
