@@ -28,7 +28,7 @@ Der Tunnel endet abrupt. Kein langsames Heller-werden – eine Wand aus Licht, L
 
 Runenlichter überall. Das Zischen von Dampfleitungen. Konstrukte die sich durch die Menge bewegen ohne jemanden anzuschauen. Händler die in drei Sprachen gleichzeitig rufen. Der Geruch von heißem Metall, Räucherwerk und zu vielen Menschen auf zu engem Raum.
 
-### Huldurs Wisdom Save
+%%### Huldurs Wisdom Save
 
 **DC 13** – Reizüberflutung beim Betreten der Stadt.
 
@@ -39,13 +39,17 @@ Runenlichter überall. Das Zischen von Dampfleitungen. Konstrukte die sich durch
 
 > **Blood Oath Dagger Moment:** Unabhängig vom Wurf – der Dagger wird warm gegen ihre Hüfte. Fast beruhigend. Als würde er anbieten den Lärm auszublenden. Nur eine kurze Beschreibung, kein Wurf nötig. Huldur entscheidet selbst.
 
-_"Mitten im Chaos spürst du den Griff des Daggers warm gegen deine Hüfte. Fast... einladend."_
+_"Mitten im Chaos spürst du den Griff des Daggers warm gegen deine Hüfte. Fast... einladend."_%%
+
+>Huldur geriet, wegen der Masse an Einflüssen, in Panik 
 
 ### Grimms Reaktion
 
-Grimm verschwindet instinktiv in der Menge. Nicht böswillig – er fühlt sich einfach sofort zuhause. Passive Perception DC 12 für Huldur um ihn noch zu sehen bevor er weg ist.
+Grimm verschwindet instinktiv in der Menge. Nicht böswillig – er fühlt sich einfach sofort zuhause. 
 
-> **SL-Hinweis:** Beide Stränge können ab hier getrennt gespielt werden und später zusammengeführt werden.
+%%Passive Perception DC 12 für Huldur um ihn noch zu sehen bevor er weg ist.
+
+ **SL-Hinweis:** Beide Stränge können ab hier getrennt gespielt werden und später zusammengeführt werden.%%
 
 ---
 
@@ -55,7 +59,7 @@ Grimm verschwindet instinktiv in der Menge. Nicht böswillig – er fühlt sich 
 
 Ein junger frecher Halbling der sich auf frisch Eingereiste spezialisiert hat. Arbeitet mit einem Schema – erst freundlich helfen, Weg zeigen, dabei die Börse leeren.
 
-**Grimm bemerkt ihn:** Passive Perception DC 10.
+%%**Grimm bemerkt ihn:** Passive Perception DC 10.
 
 Bei Erfolg sieht Grimm genau was Pip tut – er erkennt das Schema sofort. Zwei Optionen:
 
@@ -63,17 +67,23 @@ Bei Erfolg sieht Grimm genau was Pip tut – er erkennt das Schema sofort. Zwei 
 
 **Option B – Kollegen:** Grimm lässt Pip arbeiten und beobachtet. Lernt dabei die Bewegungsmuster der Linsenreiter.
 
-> **Pip als Informant:** Er weiß wann die Linsenreiter ihre Routen wechseln, wo die blinden Flecken der Eisenwächter sind, und welche Händler keine Fragen stellen.
+> **Pip als Informant:** Er weiß wann die Linsenreiter ihre Routen wechseln, wo die blinden Flecken der Eisenwächter sind, und welche Händler keine Fragen stellen.%%
+
+>Leider wurde Pip zu spät von Grimm entdeckt... Er hatte sich schon seine Börse geschnappt
 
 ### Landan – Der Langfinger
 
-Kein Schild, keine offizielle Existenz. Hinterhofwerkstatt die gestohlene magische Gegenstände ankauft.
+Kein Schild, keine offizielle Existenz. Versteckte Hinterhofwerkstatt die gestohlene magische Gegenstände ankauft.
 
-**Grimm findet ihn:** Investigation DC 13 in den Seitengassen, oder automatisch wenn er Pip folgt.
+%%**Grimm findet ihn:** Investigation DC 13 in den Seitengassen, oder automatisch wenn er Pip folgt.
 
-Landan kauft alles ohne Fragen – aber zahlt schlecht. Persuasion DC 14 für faire Preise.
+Landan kauft alles ohne Fragen – aber zahlt schlecht. Persuasion DC 14 für faire Preise.%%
 
-> **Perception DC 15 bei Setch:** An der Wand hängt eine Liste mit gesuchten Gegenständen. Einer davon hat eine ungewöhnlich hohe Belohnung – ein kleiner roter Edelstein der warm leuchtet. Keine weiteren Details.
+>Nachdem es etwas Anlaufschwierigkeiten mit der Verhandlungstaktik von Grimm gab, konnte dieser bin einem Spiel sein Gold wieder zurück bekommen.
+
+> An der Wand hängt eine Liste mit gesuchten Gegenständen. Einer davon hat eine ungewöhnlich hohe Belohnung (5000G) – ein kleiner roter Edelstein der warm leuchtet.
+
+Zum Abschied sagte Landan noch "**der Hauerforst vergisst nicht!"** und übergab Grimm einen Sending-Stone
 
 ---
 
@@ -84,31 +94,35 @@ Landan kauft alles ohne Fragen – aber zahlt schlecht. Persuasion DC 14 für fa
 Ein kleiner Innenhof mitten in der Stadt wo jemand verzweifelt versucht einen Garten anzulegen. Die Pflanzen wachsen schief, das Licht reicht kaum. Aber es ist das einzige Fleckchen Grün in Constantia.
 
 Eine alte Frau sitzt täglich dort und redet mit den Pflanzen.
-
+Sobald man den Bereich betritt, wird es schlagartig ruhig. 
+%%
 > Kein Wurf nötig. Einfach ein ruhiger Moment für Huldur. Die alte Frau schaut kurz auf, nickt, und redet weiter mit ihren Pflanzen.
+%%
 
 ### Tessri – Kupfer & Seele
 
 Kleine Augmentierungswerkstatt, betrieben von einer älteren Gnomfrau. Vollgestopft, riecht nach Lötmittel.
 
 Verkauft einfache mechanische Verbesserungen – verstärkte Handgelenke, ein Auge das im Dunkeln sieht, eine Fingerklinge die sich einklappen lässt.
-
+%%
 **Wenn Huldur reinschaut:** Tessri schaut kurz auf. _"Waldelfe. Selten hier. Was brauchst du?"_ Keine Umschreibung, kein Smalltalk.
 
 > **Perception DC 12:** An der Wand hängen Skizzen von komplexeren Projekten die nie fertiggestellt wurden. Darunter etwas das verdächtig nach einem vollständigen Konstruktarm aussieht – mit Runen die Huldur nicht einordnen kann.
 
 > **Arcana DC 15:** Die Runen auf der Skizze sind keine Artificer-Magie. Sie sind älter. Viel älter.
+%%
+Huldur kam hier bei der Suche nach einer Taverne vorbei und beobachtete Tessris Handwerk.
 
 ---
 
-# Strang B – Ray & Barbrek
+# Strang B – Ray & Peon
 
-## Szene 1 – Ray trifft Barbrek
+## Szene 1 – Ray trifft Peon
 
-Ray kommt zurück zum Schiff. Barbrek sitzt auf dem Deck, meditiert, völlig unbeeindruckt von den Skelett-Ruderern.
+Ray kommt zurück zum Schiff. Peon ist mittlerweile vom Schiff geklettert und wunderte sich was Constantia bei einem Vulkan machen soll.
 
-_"Ah. Du bist also der Captain."_ _(öffnet ein Auge)_ _"Kommen wir jetzt irgendwann in die Stadt?"_
-
+Bei einen zweiten Versuch in die Stadt zu kommen, legte Ray seine TGO Maske an und schaffte es zum Schluss. 
+%%
 ### Optionen für den Einlass
 
 **Option A – TGO-Masken:** Ray erklärt Barbrek die Situation. Barbrek runzelt die Stirn. _"Wir verkleiden uns... um reinzukommen?"_ _(kurze Pause)_ _"Gut."_
@@ -129,18 +143,13 @@ Barbrek schaut nach unten. Dann nach oben. Dann wieder nach unten. _"Das ist... 
 **Option C – Barbrek klopft einfach an:** Barbrek geht allein zur Wache, ohne Maske, ohne Brief. _"Ich bin Zwerg. Ich möchte die Stadt sehen."_
 
 Die Wache schaut ihn an. Schaut die Konstrukte an. Schaut wieder ihn an. DC 10 – Zwerge sind in Constantia respektiert wegen ihrer Handwerksgeschichte.
+%%
 
 ---
 
-## Szene 2 – Barbrek betritt Constantia
+## Szene 2 – Peon und Ray betreten Constantia
 
-Barbrek als Zwergenmönch sieht Constantia anders als alle anderen. Er sieht nicht den Lärm oder den Trubel – er sieht Handwerk. Sehr seltsames, unnatürliches Handwerk, aber Handwerk.
 
-_"Die Nähte an diesem Eisenwächter... das ist Zwerg-Technik. Aber verändert."_ _(schaut genauer)_ _"Wer auch immer das gebaut hat, hatte Zugang zu sehr alten Bauplänen."_
-
-> **History DC 14 für Barbrek:** Die Grundstruktur der Eisenwächter basiert tatsächlich auf uralten Zwerg-Konstrukten aus der Zeit vor dem Shattering. Rajah oder jemand in seinem Dienst hat diese Pläne irgendwo gefunden.
-
-> **SL-Hinweis:** Das ist ein subtiler Hinweis auf die Verbindung zwischen Constantia und Tharok-Zul für später. Muss jetzt nicht weiter verfolgt werden.
 
 ---
 
